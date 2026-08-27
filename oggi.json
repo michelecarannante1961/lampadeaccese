@@ -1,0 +1,62 @@
+{
+  "data_iso": "2026-08-27",
+  "hero": {
+    "dataLeggibile": "Giovedì 27 agosto 2026",
+    "liturgia": "XXI Settimana del Tempo Ordinario · Memoria di Santa Monica",
+    "coloreLiturgico": "verde",
+    "tempoLiturgico": "Tempo Ordinario"
+  },
+  "fraseLuce": {
+    "testo": "«Vegliate, perché non sapete in quale giorno il Signore vostro verrà.»",
+    "riferimento": "Mt 24,42"
+  },
+  "audio": {
+    "fonte": "Vatican News — Radio Vaticana",
+    "titolo": "Liturgia della Parola e Omelia del Papa",
+    "url": "https://media.vaticannews.va/media2/audio/s1/2026/08/07/12/139237933_F139237933.mp3",
+    "tipo": "audio/mpeg"
+  },
+  "letture": {
+    "primaLettura": {
+      "riferimento": "Prima Lettura — 1 Corinzi 1, 1-9",
+      "titolo": "Dalla prima lettera di san Paolo apostolo ai Corìnzi",
+      "testo": "Paolo, chiamato a essere apostolo di Cristo Gesù per volontà di Dio, e il fratello Sòstene, alla Chiesa di Dio che è a Corinto, a coloro che sono stati santificati in Cristo Gesù, santi per vocazione, insieme a tutti quelli che in ogni luogo invocano il nome del Signore nostro Gesù Cristo, Signore nostro e loro: grazia a voi e pace da Dio Padre nostro e dal Signore Gesù Cristo!\n\nRendo grazie continuamente al mio Dio per voi, a motivo della grazia di Dio che vi è stata data in Cristo Gesù, perché in lui siete stati arricchiti di tutti i doni, quelli della parola e quelli della conoscenza. La testimonianza di Cristo si è stabilita tra voi così saldamente, che non manca più alcun carisma a voi, che aspettate la manifestazione del Signore nostro Gesù Cristo. Egli vi renderà saldi sino alla fine, irreprensibili nel giorno del Signore nostro Gesù Cristo. Degno di fede è Dio, dal quale siete stati chiamati alla comunione con il Figlio suo Gesù Cristo, Signore nostro!"
+    },
+    "salmo": {
+      "riferimento": "Salmo responsoriale — Dal Sal 144 (145)",
+      "ritornello": "Rit. Benedirò il tuo nome per sempre, Signore.",
+      "versetti": "Ti voglio benedire ogni giorno,\nlodare il tuo nome in eterno e per sempre.\nGrande è il Signore e degno di ogni lode;\nsenza fine è la sua grandezza.\n\nUna generazione narra all'altra le tue opere,\nannuncia le tue imprese.\nIl glorioso splendore della tua maestà\ne le tue meraviglie voglio meditare.\n\nParlino della tua terribile potenza:\nanch'io voglio raccontare la tua grandezza.\nDiffondano il ricordo della tua bontà immensa,\nacclamino la tua giustizia."
+    },
+    "secondaLettura": null,
+    "vangelo": {
+      "riferimento": "Santo Vangelo — Matteo 24, 42-51",
+      "titolo": "Dal Vangelo secondo Matteo",
+      "testo": "In quel tempo, Gesù disse ai suoi discepoli:\n«Vegliate, perché non sapete in quale giorno il Signore vostro verrà. Cercate di capire questo: se il padrone di casa sapesse a quale ora della notte viene il ladro, veglierebbe e non si lascerebbe scassinare la casa. Perciò anche voi tenetevi pronti perché, nell'ora che non immaginate, viene il Figlio dell'uomo.\n\nChi è dunque il servo fidato e prudente, che il padrone ha messo a capo dei suoi domestici per dare loro il cibo a tempo debito? Beato quel servo che il padrone, arrivando, troverà ad agire così! Davvero io vi dico: lo metterà a capo di tutti i suoi beni.\n\nMa se quel servo malvagio dicesse in cuor suo: \"Il mio padrone tarda\", e cominciasse a percuotere i suoi compagni e a mangiare e a bere con gli ubriaconi, il padrone di quel servo arriverà un giorno in cui non se l'aspetta e a un'ora che non sa, lo punirà severamente e gli infliggerà la sorte che meritano gli ipocriti: là sarà pianto e stridore di denti.»",
+      "audioUrl": "https://media.vaticannews.va/media2/audio/s1/2026/08/07/12/139237933_F139237933.mp3"
+    }
+  },
+  "omelia": {
+    "estratto": "«Vegliare non significa avere materialmente gli occhi aperti, ma avere il cuore libero e rivolto nella direzione giusta, cioè disposto al dono e al servizio. Il sonno da cui dobbiamo svegliarci è costituito dall'indifferenza, dalla vanità, dall'incapacità di farsi carico del fratello solo, abbandonato o malato.»",
+    "autore": "Papa Francesco",
+    "fonteNome": "Vatican News — Il pensiero del giorno",
+    "fonteUrl": "https://www.vaticannews.va/it/vangelo-del-giorno-e-parola-del-giorno.html",
+    "data": "Angelus, 1° dicembre 2019",
+    "testoCompleto": "Nel Vangelo di oggi, Gesù ci esorta ad essere pronti per la sua venuta: «Vegliate dunque, perché non sapete in quale giorno il Signore vostro verrà» (Mt 24,42). Vegliare non significa avere materialmente gli occhi aperti, ma avere il cuore libero e rivolto nella direzione giusta, cioè disposto al dono e al servizio. Questo è vegliare! Il sonno da cui dobbiamo svegliarci è costituito dall'indifferenza, dalla vanità, dall'incapacità di instaurare rapporti genuinamente umani, dell'incapacità di farsi carico del fratello solo, abbandonato o malato. L'attesa di Gesù che viene si deve tradurre, dunque, in un impegno di vigilanza. Si tratta anzitutto di meravigliarsi davanti all'azione di Dio, alle sue sorprese, e di dare a Lui il primato. Vigilanza significa anche, concretamente, essere attenti al nostro prossimo in difficoltà, lasciarsi interpellare dalle sue necessità, senza aspettare che lui o lei ci chiedano aiuto, ma imparare a prevenire, ad anticipare, come fa sempre Dio con noi. Maria, Vergine vigilante e Madre della speranza, ci guidi in questo cammino, aiutandoci a rivolgere lo sguardo verso il «monte del Signore», immagine di Gesù Cristo, che attira a sé tutti gli uomini e tutti i popoli."
+  },
+  "santo": {
+    "nome": "Santa Monica",
+    "titolo": "Memoria liturgica · Patrona delle madri e degli sposi",
+    "bio": "Monica nacque nel 331 a Tagaste, nell'odierna Algeria, da una famiglia di salde tradizioni cristiane. Sposò Patrizio e dedicò gran parte della propria vita alla preghiera costante per la sua conversione e per quella del figlio Agostino. Lo accompagnò con pazienza tra Tagaste, Cartagine e Milano, dove vide Agostino battezzato da sant'Ambrogio. Morì a Ostia nel 387, serena per la conversione compiuta del figlio.",
+    "scintilla": "Monica non ha convertito nessuno con un discorso o un rimprovero: ha resistito, anno dopo anno, restando accanto a chi amava senza mai smettere di crederci."
+  },
+  "oggiProvaA": "Oggi impara ad anticipare: compi un gesto di aiuto verso una persona in difficoltà o sola, senza aspettare che sia lei a chiedertelo.",
+  "domandaPerTe": "Il tuo cuore è sveglio e attento ai bisogni di chi ti sta vicino, oppure rischi di vivere nell'abitudine e nella distrazione?",
+  "treMinuti": {
+    "versetto": "«Vegliate, perché non sapete in quale giorno il Signore vostro verrà.» (Mt 24,42)",
+    "pensiero": "Vegliare è avere il cuore libero e disposto al dono e al servizio del fratello.",
+    "santo": "Santa Monica pregò con costanza e amore per anni, testimoniando che la speranza non delude.",
+    "gesto": "Fai oggi una sorpresa di bene a chi è solo o malato.",
+    "preghiera": "Signore Gesù, svegliaci dal sonno dell'indifferenza e riempi il nostro cuore della tua carità. Amen."
+  },
+  "preghieraFinale": "Signore Gesù, sveglia il nostro cuore dal sonno dell'indifferenza e della distrazione. Rendici vigilanti nell'amore, pronti a riconoscere i tuoi passi negli incontri di ogni giorno e generosi nel servire chi è solo o in difficoltà. Fa' risplendere in noi la luce della tua speranza. Amen."
+}

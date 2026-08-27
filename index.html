@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="it" data-theme="day" data-font-size="normal">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lampade Accese — Una Parola per illuminare la giornata</title>
+  
+  <!-- SEO & Social Open Graph -->
+  <meta name="description" content="Lampade Accese: la Parola di Dio del giorno, Vangelo, omelia dei Papi e audio ufficiale Vatican News.">
+  <meta property="og:title" content="Lampade Accese — Una Parola per illuminare la giornata">
+  <meta property="og:description" content="La Parola di Dio del giorno con l'audio ufficiale di Vatican News e il pensiero dei Papi.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="candela.png">
+  <meta name="theme-color" content="#c48b28">
+  
+  <!-- PWA Manifest & Favicon -->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="apple-touch-icon" href="candela.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  
+  <!-- Fogli di stile -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Barra di avanzamento lettura superiore -->
+  <div class="reading-progress-bar" id="readingProgressBar"></div>
+
+  <!-- ===================== HEADER FISSO E STRUMENTI ===================== -->
+  <header class="site-header" id="siteHeader">
+    <a href="#top" class="site-header__brand" title="Torna all'inizio">
+      <span class="site-header__flame">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#c48b28" stroke-width="2">
+          <path d="M12 2c1 3 4 6 4 10a6 6 0 01-12 0c0-4 3-7 4-10 1 2 2 3 4 0z" fill="#f5b338"/>
+        </svg>
+      </span>
+      <span>Lampade Accese</span>
+    </a>
+
+    <nav class="site-header__nav">
+      <a href="#parola" class="site-header__nav-link">La Parola</a>
+      <a href="#audio-vatican" class="site-header__nav-link">🎙️ Audio Vatican</a>
+      <a href="#omelia" class="site-header__nav-link">Omelia del Papa</a>
+      <a href="#santo" class="site-header__nav-link">Santo</a>
+      <a href="#tre-minuti" class="site-header__nav-link">3 Minuti</a>
+      <a href="#spazio-preghiera" class="site-header__nav-link">Rosario & Preghiere</a>
+    </nav>
+
+    <div class="site-header__actions">
+      <!-- Regolazione carattere -->
+      <button class="header-btn" id="btnFontSize" title="Modifica dimensione testo" aria-label="Dimensione testo">
+        <span>A±</span>
+      </button>
+      
+      <!-- Preferiti -->
+      <button class="header-btn" id="btnOpenFavorites" title="I miei preferiti e note" aria-label="Preferiti">
+        <span>⭐</span>
+      </button>
+
+      <!-- Calendario -->
+      <button class="header-btn" id="btnOpenCalendarHeader" title="Calendario Liturgico" aria-label="Calendario">
+        <span>📅</span>
+      </button>
+
+      <!-- Stampa -->
+      <button class="header-btn" id="btnPrintPage" title="Stampa il foglietto della Parola" aria-label="Stampa">
+        <span>🖨️</span>
+      </button>
+
+      <!-- Interruttore Lampada Tema Giorno / Notte -->
+      <div class="theme-switch" id="themeSwitch">
+        <div class="theme-switch__lamp lamp" data-lamp id="lamp-theme" title="Accendi/Spegni modalità Notte">
+          <svg class="toggle-scene" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin" viewBox="0 0 197.451 481.081">
+            <g class="toggle-scene__bulb bulb">
+              <path class="bulb__bulb" stroke-linecap="round" stroke-width="5" d="M60.877 158.642c5.251 8.815 5.295 21.32 13.272 27.774 12.299 8.045 36.46 8.115 49.127 0 7.976-6.454 8.022-18.96 13.273-27.774 3.992-6.7 14.408-19.811 14.408-19.811 8.276-11.539 12.769-24.594 12.769-38.699 0-35.898-29.102-65-65-65-35.899 0-65 29.102-65 65 0 13.667 4.217 26.348 12.405 38.2 0 0 10.754 13.61 14.746 20.31z"/>
+              <g class="bulb__filament">
+                <path d="M91.155 178.662l-8.858-33.06"/>
+                <path d="M106.297 178.662l8.858-33.06"/>
+              </g>
+              <path class="bulb__shine" d="M54.879 112.288a45.897 45.897 0 013.915-36.189 45.897 45.897 0 0129.031-21.957"/>
+              <path class="bulb__cap" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.677" d="M69.523 182.416s12.917-13.473 29.203-13.412c16.53.062 29.203 13.412 29.203 13.412v53.6s-8.825 16-29.203 16c-21.674 0-29.203-16-29.203-16z"/>
+              <path class="bulb__cap-shine" opacity=".5" d="M74 190c3-3 12-6 22-6 9 0 17 2 22 5v10c-5-3-13-5-22-5-10 0-19 3-22 6z"/>
+            </g>
+            <g class="toggle-scene__cords" data-cord-group>
+              <line class="toggle-scene__cord" data-cord x1="98.7255" x2="98.7255" y1="240.5405" y2="380.5405"/>
+              <circle class="toggle-scene__pull" data-pull cx="98.7255" cy="380.5405" r="11"/>
+              <circle class="toggle-scene__hit-spot" data-hit cx="98.7255" cy="380.5405" r="55" fill="transparent"/>
+            </g>
+          </svg>
+        </div>
+        <span class="theme-switch__label" id="themeSwitchLabel">Giorno</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===================== HERO SECTION ===================== -->
+  <section class="hero" id="top">
+    <div class="liturgical-badge" id="liturgicalBadge">
+      <span class="liturgical-dot" id="liturgicalDot"></span>
+      <span id="liturgicalBadgeText">XXI Settimana del Tempo Ordinario</span>
+    </div>
+
+    <h1 class="hero__brand">Lampade Accese</h1>
+    <p class="hero__subtitle">Una Parola per illuminare la giornata.</p>
+
+    <p class="hero__date" id="heroDate">Giovedì 27 agosto 2026</p>
+    <p class="hero__liturgical" id="heroLiturgical">Memoria di Santa Monica</p>
+
+    <!-- Lampada Interattiva Hero -->
+    <div class="hero__lamp lamp" data-lamp id="lamp-hero">
+      <svg class="toggle-scene" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin" viewBox="0 0 197.451 481.081">
+        <g class="toggle-scene__bulb bulb">
+          <path class="bulb__bulb" stroke-linecap="round" stroke-width="5" d="M60.877 158.642c5.251 8.815 5.295 21.32 13.272 27.774 12.299 8.045 36.46 8.115 49.127 0 7.976-6.454 8.022-18.96 13.273-27.774 3.992-6.7 14.408-19.811 14.408-19.811 8.276-11.539 12.769-24.594 12.769-38.699 0-35.898-29.102-65-65-65-35.899 0-65 29.102-65 65 0 13.667 4.217 26.348 12.405 38.2 0 0 10.754 13.61 14.746 20.31z"/>
+          <g class="bulb__filament">
+            <path d="M91.155 178.662l-8.858-33.06"/>
+            <path d="M106.297 178.662l8.858-33.06"/>
+          </g>
+          <path class="bulb__shine" d="M54.879 112.288a45.897 45.897 0 013.915-36.189 45.897 45.897 0 0129.031-21.957"/>
+          <path class="bulb__cap" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.677" d="M69.523 182.416s12.917-13.473 29.203-13.412c16.53.062 29.203 13.412 29.203 13.412v53.6s-8.825 16-29.203 16c-21.674 0-29.203-16-29.203-16z"/>
+          <path class="bulb__cap-shine" opacity=".5" d="M74 190c3-3 12-6 22-6 9 0 17 2 22 5v10c-5-3-13-5-22-5-10 0-19 3-22 6z"/>
+        </g>
+        <g class="toggle-scene__cords" data-cord-group>
+          <line class="toggle-scene__cord" data-cord x1="98.7255" x2="98.7255" y1="240.5405" y2="380.5405"/>
+          <circle class="toggle-scene__pull" data-pull cx="98.7255" cy="380.5405" r="11"/>
+          <circle class="toggle-scene__hit-spot" data-hit cx="98.7255" cy="380.5405" r="55"/>
+        </g>
+      </svg>
+    </div>
+
+    <!-- Frase Luce Hero -->
+    <p class="hero__light-phrase">
+      <span id="heroLightPhraseText">«Vegliate, perché non sapete in quale giorno il Signore vostro verrà.»</span><br>
+      <small id="heroLightPhraseRef">Mt 24,42</small>
+    </p>
+
+    <!-- Azione Principale -->
+    <div class="hero__cta-group">
+      <button class="cta" id="accendiBtn">
+        <span>Accendi la lampada & Leggi</span>
+      </button>
+      <p class="hero__hint">oppure tira il cordino ↑</p>
+    </div>
+
+    <!-- Scorciatoie Rapide -->
+    <div class="hero__quick-pills">
+      <a href="#audio-vatican" class="quick-pill" style="border-color:var(--amber); color:var(--amber-deep);">🎙️ Ascolta Audio Vatican News</a>
+      <a href="#omelia" class="quick-pill">✨ Omelia del Papa</a>
+      <a href="#tre-minuti" class="quick-pill">⚡ 3 Minuti</a>
+      <a href="#spazio-preghiera" class="quick-pill">📿 Santo Rosario</a>
+    </div>
+  </section>
+
+  <!-- ===================== BARRA NAVIGAZIONE TEMPORALE ===================== -->
+  <div class="time-nav-bar">
+    <button class="time-nav-btn" id="btnPrevDay" title="Giorno precedente">← Ieri</button>
+    <button class="time-nav-btn is-active" id="btnToday">Oggi</button>
+    <button class="time-nav-btn" id="btnNextDay" title="Giorno successivo">Domani →</button>
+    <button class="time-nav-btn" id="btnOpenCalendar">📅 Scegli data</button>
+  </div>
+
+  <!-- ===================== SEZIONE AUDIO UFFICIALE VATICAN NEWS ===================== -->
+  <section class="section" id="audio-vatican" style="padding-bottom: 0;">
+    <div class="vatican-audio-card">
+      <div class="vatican-audio-badge">
+        <span class="pulse-dot"></span>
+        <span>🎙️ Registrazione Ufficiale Vatican News — Radio Vaticana</span>
+      </div>
+      <h3 class="vatican-audio-title" id="audioTrackTitle">Vangelo e Parola del Giorno</h3>
+      <p class="vatican-audio-subtitle" id="audioTrackSubtitle">Ascolta la Prima Lettura, il Salmo, il Vangelo e la meditazione di Papa Francesco recitati con musica sacra</p>
+
+      <!-- Elemento Audio HTML5 -->
+      <audio id="vaticanAudioElement" preload="metadata" src="https://media.vaticannews.va/media2/audio/s1/2026/08/07/12/139237933_F139237933.mp3"></audio>
+
+      <!-- Controlli Player Personalizzati -->
+      <div class="vatican-custom-player">
+        <div class="vatican-player-controls">
+          <button class="vatican-play-btn" id="btnVaticanPlay" title="Play / Pausa">▶</button>
+          <button class="vatican-skip-btn" id="btnVaticanRewind" title="Riavvolgi 15s">↺ -15s</button>
+          <button class="vatican-skip-btn" id="btnVaticanForward" title="Avanza 15s">+15s ↻</button>
+          <select class="vocal-speed-select" id="vaticanAudioSpeed" title="Velocità riproduzione">
+            <option value="0.9">0.9x</option>
+            <option value="1" selected>1.0x</option>
+            <option value="1.2">1.2x</option>
+          </select>
+        </div>
+
+        <div class="vatican-timeline-container">
+          <span class="vatican-time-text" id="audioCurrentTime">00:00</span>
+          <div class="vatican-progress-bar" id="audioProgressBar">
+            <div class="vatican-progress-fill" id="audioProgressFill"></div>
+          </div>
+          <span class="vatican-time-text" id="audioDuration">--:--</span>
+        </div>
+      </div>
+
+      <div class="vatican-audio-footer">
+        <span>Fonte: <strong>Dicastero per la Comunicazione — Santa Sede</strong></span>
+        <a href="https://www.vaticannews.va/it/vangelo-del-giorno-e-parola-del-giorno.html" target="_blank" rel="noopener">Apri su Vatican News ↗</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== LA PAROLA DI OGGI ===================== -->
+  <section class="section" id="parola">
+    <div class="section-title-row">
+      <div class="medallion"><img src="candela.png" alt="Candela"></div>
+      <h2>La Parola di oggi</h2>
+    </div>
+
+    <!-- Prima Lettura -->
+    <div class="reading-block" id="blockPrimaLettura">
+      <p class="reading__ref" id="primaLetturaRef">Prima Lettura — 1 Corinzi 1, 1-9</p>
+      <p class="reading__title" id="primaLetturaTitolo">Dalla prima lettera di san Paolo apostolo ai Corìnzi</p>
+      <div class="reading__text" id="primaLetturaTesto">Paolo, chiamato a essere apostolo di Cristo Gesù per volontà di Dio, e il fratello Sòstene, alla Chiesa di Dio che è a Corinto, a coloro che sono stati santificati in Cristo Gesù, santi per vocazione, insieme a tutti quelli che in ogni luogo invocano il nome del Signore nostro Gesù Cristo, Signore nostro e loro: grazia a voi e pace da Dio Padre nostro e dal Signore Gesù Cristo!
+
+Rendo grazie continuamente al mio Dio per voi, a motivo della grazia di Dio che vi è stata data in Cristo Gesù, perché in lui siete stati arricchiti di tutti i doni, quelli della parola e quelli della conoscenza. La testimonianza di Cristo si è stabilita tra voi così saldamente, che non manca più alcun carisma a voi, che aspettate la manifestazione del Signore nostro Gesù Cristo. Egli vi renderà saldi sino alla fine, irreprensibili nel giorno del Signore nostro Gesù Cristo. Degno di fede è Dio, dal quale siete stati chiamati alla comunione con il Figlio suo Gesù Cristo, Signore nostro!</div>
+    </div>
+
+    <!-- Salmo Responsoriale -->
+    <div class="reading-block" id="blockSalmo">
+      <p class="reading__ref" id="salmoRef">Salmo responsoriale — Dal Sal 144 (145)</p>
+      <div class="reading__psalm-refrain" id="salmoRitornello">Rit. Benedirò il tuo nome per sempre, Signore.</div>
+      <div class="reading__text" id="salmoVersetti" style="font-style:italic;">Ti voglio benedire ogni giorno,
+lodare il tuo nome in eterno e per sempre.
+Grande è il Signore e degno di ogni lode;
+senza fine è la sua grandezza.
+
+Una generazione narra all'altra le tue opere,
+annuncia le tue imprese.
+Il glorioso splendore della tua maestà
+e le tue meraviglie voglio meditare.
+
+Parlino della tua terribile potenza:
+anch'io voglio raccontare la tua grandezza.
+Diffondano il ricordo della tua bontà immensa,
+acclamino la tua giustizia.</div>
+    </div>
+
+    <!-- Seconda Lettura (Opzionale / Domeniche e Solennità) -->
+    <div class="reading-block" id="blockSecondaLettura" style="display:none;">
+      <p class="reading__ref" id="secondaLetturaRef">Seconda Lettura</p>
+      <p class="reading__title" id="secondaLetturaTitolo"></p>
+      <div class="reading__text" id="secondaLetturaTesto"></div>
+    </div>
+
+    <!-- Vangelo del Giorno -->
+    <div class="reading--gospel" id="blockVangelo">
+      <div class="section-title-row" style="margin-bottom:14px;">
+        <div class="medallion"><img src="croce.png" alt="Croce"></div>
+        <div>
+          <p class="reading__ref" style="margin:0;" id="vangeloRef">Santo Vangelo — Matteo 24, 42-51</p>
+          <p class="reading__title" id="vangeloTitolo" style="margin:0; font-size:0.92rem;">Dal Vangelo secondo Matteo</p>
+        </div>
+      </div>
+
+      <blockquote id="vangeloTesto">In quel tempo, Gesù disse ai suoi discepoli:
+«Vegliate, perché non sapete in quale giorno il Signore vostro verrà. Cercate di capire questo: se il padrone di casa sapesse a quale ora della notte viene il ladro, veglierebbe e non si lascerebbe scassinare la casa. Perciò anche voi tenetevi pronti perché, nell'ora che non immaginate, viene il Figlio dell'uomo.
+
+Chi è dunque il servo fidato e prudente, che il padrone ha messo a capo dei suoi domestici per dare loro il cibo a tempo debito? Beato quel servo che il padrone, arrivando, troverà ad agire così! Davvero io vi dico: lo metterà a capo di tutti i suoi beni.
+
+Ma se quel servo malvagio dicesse in cuor suo: "Il mio padrone tarda", e cominciasse a percuotere i suoi compagni e a mangiare e a bere con gli ubriaconi, il padrone di quel servo arriverà un giorno in cui non se l'aspetta e a un'ora che non sa, lo punirà severamente e gli infliggerà la sorte che meritano gli ipocriti: là sarà pianto e stridore di denti.»</blockquote>
+
+      <div style="margin-top:16px;">
+        <button class="action-btn action-btn--primary" id="btnPlayVangeloAudio" style="font-size:0.86rem; padding:10px 22px;">
+          <span>🎙️ Ascolta il Vangelo e le Letture (Vatican News)</span>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== FRASE-LUCE & CONDIVISIONE ===================== -->
+  <section class="section" id="frase-luce">
+    <div class="light-card">
+      <div class="light-card__decor">“</div>
+      <p class="eyebrow">La frase da portare con te</p>
+      <p class="light-card__quote" id="frasePhrase">«Vegliate, perché non sapete in quale giorno il Signore vostro verrà.»</p>
+      <p class="light-card__ref" id="fraseRef">Mt 24,42</p>
+      
+      <div class="light-card__actions">
+        <button class="action-btn" id="copyBtn">📋 Copia testo</button>
+        <a class="action-btn" id="waBtn" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+        <button class="action-btn action-btn--primary" id="btnGenerateCard">🖼️ Crea Immagine Social</button>
+        <button class="action-btn" id="btnFavoriteQuote">⭐ Salva nei Preferiti</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== UNA LUCE SULLA PAROLA (OMELIA DEI PAPI) ===================== -->
+  <section class="section homily" id="omelia">
+    <div class="section-title-row">
+      <div class="medallion"><img src="colomba.png" alt="Colomba"></div>
+      <div>
+        <h2 style="margin:0;">Il Pensiero dei Papi</h2>
+        <p style="margin:0; font-size:0.85rem; color:var(--amber-deep); font-weight:600;" id="omeliaAutoreSub">Papa Francesco</p>
+      </div>
+    </div>
+
+    <blockquote id="omeliaEstratto">«Vegliare non significa avere materialmente gli occhi aperti, ma avere il cuore libero e rivolto nella direzione giusta, cioè disposto al dono e al servizio. Il sonno da cui dobbiamo svegliarci è costituito dall'indifferenza, dalla vanità, dall'incapacità di farsi carico del fratello solo, abbandonato o malato.»</blockquote>
+
+    <div class="homily__full-text" id="omeliaFullText" style="display:none;"></div>
+
+    <p class="homily__meta">
+      Autore: <strong id="omeliaAutore">Papa Francesco</strong> · Fonte: <a id="omeliaFonteUrl" href="https://www.vaticannews.va/it/vangelo-del-giorno-e-parola-del-giorno.html" target="_blank" rel="noopener">Vatican News — Il pensiero del giorno</a> · <span id="omeliaData">Angelus, 1° dicembre 2019</span>
+    </p>
+
+    <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:10px;">
+      <button class="action-btn action-btn--primary" id="btnPlayOmeliaVatican">🎙️ Ascolta Omelia nell'Audio Ufficiale</button>
+      <button class="action-btn" id="btnToggleOmelia">📖 Espandi commento completo</button>
+    </div>
+  </section>
+
+  <!-- ===================== UNA VITA ACCESA (SANTO DEL GIORNO) ===================== -->
+  <section class="section" id="santo">
+    <div class="section-title-row">
+      <h2>Una vita accesa</h2>
+    </div>
+
+    <div class="saint">
+      <div class="saint__bio">
+        <p class="reading__ref" id="santoNome">Santa Monica — Memoria liturgica</p>
+        <p id="santoBio">Monica nacque nel 331 a Tagaste, nell'odierna Algeria, da una famiglia di salde tradizioni cristiane. Sposò Patrizio e dedicò gran parte della propria vita alla preghiera costante per la sua conversione e per quella del figlio Agostino. Lo accompagnò con pazienza tra Tagaste, Cartagine e Milano, dove vide Agostino battezzato da sant'Ambrogio. Morì a Ostia nel 387, serena per la conversione compiuta del figlio.</p>
+        
+        <div class="saint__spark">
+          <strong>La scintilla</strong>
+          <span id="santoScintilla">Monica non ha convertito nessuno con un discorso o un rimprovero: ha resistito, anno dopo anno, restando accanto a chi amava senza mai smettere di crederci — la pazienza d'amore è la più alta forma di preghiera.</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== DALLA PAROLA ALLA VITA ===================== -->
+  <section class="section" id="vita">
+    <h2>Oggi prova a...</h2>
+    <div class="callout callout-interactive">
+      <input type="checkbox" class="action-checkbox" id="checkOggiProvaA" title="Segna come completato">
+      <div>
+        <div id="oggiProvaA">Oggi impara ad anticipare: compi un gesto di aiuto verso una persona in difficoltà o sola, senza aspettare che sia lei a chiedertelo.</div>
+        <small style="color:var(--amber-deep); font-weight:600; display:block; margin-top:8px;" id="gestoFeedback"></small>
+      </div>
+    </div>
+
+    <h2 style="margin-top:40px;">Prima di andare...</h2>
+    <div class="callout callout--question" id="domandaPerTe">
+      Il tuo cuore è sveglio e attento ai bisogni di chi ti sta vicino, oppure rischi di vivere nell'abitudine e nella distrazione?
+    </div>
+
+    <!-- Blocco Note e Diario Spirituale -->
+    <div class="spiritual-journal-box">
+      <p style="font-weight:700; font-size:0.88rem; margin-bottom:8px; color:var(--amber-deep);">📝 La mia riflessione personale di oggi (salvata in privato sul dispositivo):</p>
+      <textarea id="journalInput" placeholder="Scrivi qui una preghiera, un pensiero o un proposito per custodire la Parola di oggi..."></textarea>
+      <button class="action-btn" id="btnSaveJournal" style="font-size:0.8rem; padding:6px 14px;">💾 Salva riflessione</button>
+    </div>
+  </section>
+
+  <!-- ===================== MODALITÀ 3 MINUTI ===================== -->
+  <section class="section three-min" id="tre-minuti">
+    <h2>Ho solo 3 minuti</h2>
+    <p class="three-min__hint">Tocca la lampadina per accendere la versione essenziale di oggi.</p>
+
+    <div class="three-min__toggle" id="treMinutiToggle" role="button" tabindex="0" aria-expanded="false" aria-controls="treMinutiPanel">
+      <div class="three-min__lamp lamp" id="lamp-tremin">
+        <svg class="mini-lamp" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 56">
+          <circle class="mini-lamp__glass" cx="20" cy="19" r="15"/>
+          <path class="mini-lamp__filament" d="M14 16l6 6 6-6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <rect class="mini-lamp__cap" x="13" y="33" width="14" height="10" rx="3"/>
+        </svg>
+      </div>
+      <span class="three-min__label">Versione Essenziale</span>
+    </div>
+
+    <div class="three-min__panel" id="treMinutiPanel">
+      <div class="three-min__inner">
+        <div class="three-min__item">
+          <h3>Versetto chiave</h3>
+          <p id="tmVersetto">«Vegliate, perché non sapete in quale giorno il Signore vostro verrà.» (Mt 24,42)</p>
+        </div>
+        <div class="three-min__item">
+          <h3>Un pensiero</h3>
+          <p id="tmPensiero">Vegliare è avere il cuore libero e disposto al dono e al servizio del fratello.</p>
+        </div>
+        <div class="three-min__item">
+          <h3>Il santo in tre righe</h3>
+          <p id="tmSanto">Santa Monica pregò con costanza e amore per anni, testimoniando che la speranza non delude.</p>
+        </div>
+        <div class="three-min__item">
+          <h3>Un gesto</h3>
+          <p id="tmGesto">Fai oggi una sorpresa di bene a chi è solo o malato.</p>
+        </div>
+        <div class="three-min__item">
+          <h3>Preghiera rapida</h3>
+          <p id="tmPreghiera">Signore Gesù, svegliaci dal sonno dell'indifferenza e riempi il nostro cuore della tua carità. Amen.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== SPAZIO DI PREGHIERA & SANTO ROSARIO ===================== -->
+  <section class="section prayer" id="spazio-preghiera">
+    <h2>Accendi questa giornata</h2>
+    <p class="prayer__text" id="preghieraTesto">Signore Gesù, sveglia il nostro cuore dal sonno dell'indifferenza e della distrazione. Rendici vigilanti nell'amore, pronti a riconoscere i tuoi passi negli incontri di ogni giorno e generosi nel servire chi è solo o in difficoltà. Fa' risplendere in noi la luce della tua speranza.</p>
+    <p class="prayer__amen">Amen.</p>
+
+    <!-- Schede di Preghiera e Rosario -->
+    <div class="prayer-tabs-container">
+      <div class="prayer-tabs">
+        <button class="prayer-tab-btn is-active" data-tab="rosario">📿 Santo Rosario del Giorno</button>
+        <button class="prayer-tab-btn" data-tab="lodi">🌅 Lodi Mattutine</button>
+        <button class="prayer-tab-btn" data-tab="compieta">🌙 Compieta (Sera)</button>
+        <button class="prayer-tab-btn" data-tab="tradizionali">🙏 Preghiere Tradizionali</button>
+      </div>
+
+      <!-- Tab Rosario Interattivo -->
+      <div class="prayer-tab-content is-active" id="tab-rosario">
+        <div class="rosary-card">
+          <p class="eyebrow">I Misteri di Oggi (<span id="rosaryDayName">Giovedì</span>)</p>
+          <h3 class="rosary-mysteries-title" id="rosaryMysteriesTitle">Misteri della Luce (Luminosi)</h3>
+
+          <div class="rosary-decade-box">
+            <h4 id="rosaryDecadeTitle" style="font-size:1.1rem; margin-bottom:6px;">1° Mistero: Il Battesimo di Gesù nel Giordano</h4>
+            <p id="rosaryDecadeMeditation" style="font-size:0.95rem; font-style:italic; margin-bottom:12px;">Contempliamo Gesù che, scendendo nell'acqua del Giordano, si fa solidale con l'umanità peccatrice e riceve la voce del Padre: «Questi è il Figlio mio prediletto».</p>
+            
+            <p style="font-size:0.8rem; font-weight:700; color:var(--amber-deep); text-transform:uppercase;">Tocca i grani per avanzare nelle 10 Ave Maria:</p>
+            
+            <div class="rosary-beads" id="rosaryBeadsContainer">
+              <!-- 10 Grani generati via JS -->
+            </div>
+
+            <div class="rosary-nav-decades">
+              <button class="action-btn" id="btnPrevDecade">← Mistero precedente</button>
+              <button class="action-btn action-btn--primary" id="btnNextDecade">Prossimo Mistero →</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tab Lodi Mattutine -->
+      <div class="prayer-tab-content" id="tab-lodi">
+        <div class="rosary-card" style="text-align:left;">
+          <h3 style="text-align:center; font-size:1.25rem; margin-bottom:12px;">Cantico di Zaccaria (Benedictus)</h3>
+          <p style="font-style:italic;">Benedetto il Signore Dio d'Israele, perché ha visitato e redento il suo popolo, e ha suscitato per noi una salvezza potente nella casa di Davide, suo servo, come aveva detto per bocca dei suoi santi profeti d'un tempo: salvezza dai nostri nemici, e dalle mani di quanti ci odiano...</p>
+          <p style="font-style:italic;">Grazie alla tenerezza e misericordia del nostro Dio, ci visiterà un sole che sorge dall'alto, per risplendere su quelli che stanno nelle tenebre e nell'ombra di morte, e dirigere i nostri passi sulla via della pace. Gloria al Padre...</p>
+        </div>
+      </div>
+
+      <!-- Tab Compieta della Sera -->
+      <div class="prayer-tab-content" id="tab-compieta">
+        <div class="rosary-card" style="text-align:left;">
+          <h3 style="text-align:center; font-size:1.25rem; margin-bottom:12px;">Cantico di Simeone (Nunc Dimittis)</h3>
+          <p style="font-style:italic;">Ora lascia, o Signore, che il tuo servo vada in pace, secondo la tua parola, perché i miei occhi hanno visto la tua salvezza, preparata da te davanti a tutti i popoli: luce per illuminare le genti e gloria del tuo popolo, Israele.</p>
+          <p style="font-style:italic;">Custodiscici, Signore, nel sonno, veglia su di noi nella notte, perché riposiamo in pace e vegliamo con Cristo. Amen.</p>
+        </div>
+      </div>
+
+      <!-- Tab Preghiere Tradizionali -->
+      <div class="prayer-tab-content" id="tab-tradizionali">
+        <details class="accordion-prayer" open>
+          <summary>Padre Nostro</summary>
+          <div class="prayer-body">
+            Padre nostro, che sei nei cieli, sia santificato il tuo nome, venga il tuo regno, sia fatta la tua volontà, come in cielo così in terra. Dacci oggi il nostro pane quotidiano, e rimetti a noi i nostri debiti come anche noi li rimettiamo ai nostri debitori, e non abbandonarsi alla tentazione, ma liberaci dal male. Amen.
+          </div>
+        </details>
+        <details class="accordion-prayer">
+          <summary>Ave Maria</summary>
+          <div class="prayer-body">
+            Ave, o Maria, piena di grazia, il Signore è con te. Tu sei benedetta fra le donne e benedetto è il frutto del tuo seno, Gesù. Santa Maria, Madre di Dio, prega per noi peccatori, adesso e nell'ora della nostra morte. Amen.
+          </div>
+        </details>
+        <details class="accordion-prayer">
+          <summary>Gloria al Padre</summary>
+          <div class="prayer-body">
+            Gloria al Padre e al Figlio e allo Spirito Santo. Come era nel principio, ora e sempre, nei secoli dei secoli. Amen.
+          </div>
+        </details>
+        <details class="accordion-prayer">
+          <summary>Angelus Domini</summary>
+          <div class="prayer-body">
+            L'Angelo del Signore portò l'annuncio a Maria. Ed ella concepì per opera dello Spirito Santo. (Ave Maria...)<br>
+            Ecco l'ancella del Signore. Si faccia di me secondo la tua parola. (Ave Maria...)<br>
+            E il Verbo si fece carne. E venne ad abitare in mezzo a noi. (Ave Maria...)
+          </div>
+        </details>
+        <details class="accordion-prayer">
+          <summary>Preghiera a San Michele Arcangelo</summary>
+          <div class="prayer-body">
+            San Michele Arcangelo, difendici nella lotta: sii tu nostro aiuto contro la malvagità e le insidie del demonio. Che Dio eserciti su di lui il suo dominio, preghiamo supplichevoli: e tu, principe della milizia celeste, con la potenza divina, ricaccia nell'inferno Satana e gli altri spiriti maligni che si aggirano per il mondo a perdizione delle anime. Amen.
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== MODALI INTERATTIVI ===================== -->
+
+  <!-- Modal Calendario Liturgico -->
+  <div class="modal-backdrop" id="modalCalendarBackdrop" role="dialog" aria-modal="true">
+    <div class="modal-dialog">
+      <button class="modal-close-btn" id="btnCloseCalendar" aria-label="Chiudi">✕</button>
+      <h3 style="font-size:1.35rem; margin-bottom:4px;">Calendario Liturgico</h3>
+      <p style="font-size:0.85rem; color:var(--ink-soft);">Scegli una data per visualizzare le letture, il Vangelo, l'audio di Vatican News e la meditazione del Papa:</p>
+      
+      <div style="display:flex; justify-content:space-between; align-items:center; margin:16px 0 8px;">
+        <button class="action-btn" id="btnCalPrevMonth" style="padding:4px 10px; font-size:0.8rem;">‹ Mese prec.</button>
+        <strong id="calMonthYearTitle" style="font-family:'Fraunces',serif; font-size:1.1rem;">Agosto 2026</strong>
+        <button class="action-btn" id="btnCalNextMonth" style="padding:4px 10px; font-size:0.8rem;">Mese succ. ›</button>
+      </div>
+
+      <div class="calendar-grid" id="calendarDaysGrid">
+        <!-- Generato via JavaScript -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal Generatore Immagine Card Social -->
+  <div class="modal-backdrop" id="modalCardBackdrop" role="dialog" aria-modal="true">
+    <div class="modal-dialog" style="text-align:center;">
+      <button class="modal-close-btn" id="btnCloseCardModal" aria-label="Chiudi">✕</button>
+      <h3 style="font-size:1.35rem; margin-bottom:4px;">Card Frase del Giorno</h3>
+      <p style="font-size:0.85rem; color:var(--ink-soft);">Immagine ad alta risoluzione pronta per WhatsApp, Instagram e social network:</p>
+      
+      <canvas id="cardCanvas" width="1080" height="1350" style="display:none;"></canvas>
+      <img id="cardPreviewImg" class="canvas-card-preview" alt="Anteprima Frase del Giorno">
+
+      <div style="display:flex; justify-content:center; gap:10px; margin-top:16px; flex-wrap:wrap;">
+        <button class="action-btn action-btn--primary" id="btnDownloadCardPng">📥 Scarica Immagine PNG</button>
+        <button class="action-btn" id="btnShareCardNative">📲 Condividi</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal Preferiti e Note -->
+  <div class="modal-backdrop" id="modalFavoritesBackdrop" role="dialog" aria-modal="true">
+    <div class="modal-dialog">
+      <button class="modal-close-btn" id="btnCloseFavoritesModal" aria-label="Chiudi">✕</button>
+      <h3 style="font-size:1.35rem; margin-bottom:4px;">I Miei Preferiti & Note</h3>
+      <p style="font-size:0.85rem; color:var(--ink-soft);">Tutte le frasi e le riflessioni spirituali salvate sul tuo dispositivo:</p>
+      
+      <div id="favoritesListContainer" style="margin-top:18px; display:flex; flex-direction:column; gap:12px;">
+        <!-- Generato via JavaScript -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Notifica Toast -->
+  <div class="toast-notification" id="toastNotification">
+    <span id="toastIcon">✓</span>
+    <span id="toastMessage">Azione completata con successo</span>
+  </div>
+
+  <!-- ===================== FOOTER / FONTI VERIFICATE ===================== -->
+  <footer>
+    <p id="footerAttrib">Letture liturgiche e audio della Parola: <strong>Vatican News — Radio Vaticana (Dicastero per la Comunicazione della Santa Sede)</strong>. Commento: <strong>Papa Francesco</strong>. Fonti ufficiali verificate.</p>
+    <ul>
+      <li><a href="https://www.vaticannews.va/it/vangelo-del-giorno-e-parola-del-giorno.html" target="_blank" rel="noopener">Vangelo e Parola del Giorno — Vatican News</a></li>
+      <li><a href="https://www.vaticannews.va/it.html" target="_blank" rel="noopener">Vatican News Portale Ufficiale</a></li>
+      <li><a href="https://www.chiesacattolica.it/liturgia-del-giorno/" target="_blank" rel="noopener">Liturgia del giorno — CEI</a></li>
+    </ul>
+    <p style="margin-top:18px; font-size:0.75rem; color:var(--ink-muted);">Lampade Accese — Edizione Completa con Audio Vatican News & Omelia dei Papi</p>
+  </footer>
+
+  <!-- Script Librerie (GSAP con fallback autonomo) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/Draggable.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
