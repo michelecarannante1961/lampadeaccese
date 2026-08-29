@@ -1,14 +1,14 @@
 {
-  "data_iso": "2026-08-27",
+  "data_iso": "2026-08-29",
   "hero": {
-    "dataLeggibile": "Giovedì 27 agosto 2026",
-    "liturgia": "XXI Settimana del Tempo Ordinario · Memoria di Santa Monica",
-    "coloreLiturgico": "verde",
+    "dataLeggibile": "Sabato 29 agosto 2026",
+    "liturgia": "XXI Settimana del Tempo Ordinario · Martirio di San Giovanni Battista",
+    "coloreLiturgico": "rosso",
     "tempoLiturgico": "Tempo Ordinario"
   },
   "fraseLuce": {
-    "testo": "«Vegliate, perché non sapete in quale giorno il Signore vostro verrà.»",
-    "riferimento": "Mt 24,42"
+    "testo": "«Non ti è lecito tenere con te la moglie di tuo fratello.»",
+    "riferimento": "Mc 6,18"
   },
   "audio": {
     "fonte": "Vatican News — Radio Vaticana",
@@ -18,45 +18,45 @@
   },
   "letture": {
     "primaLettura": {
-      "riferimento": "Prima Lettura — 1 Corinzi 1, 1-9",
-      "titolo": "Dalla prima lettera di san Paolo apostolo ai Corìnzi",
-      "testo": "Paolo, chiamato a essere apostolo di Cristo Gesù per volontà di Dio, e il fratello Sòstene, alla Chiesa di Dio che è a Corinto, a coloro che sono stati santificati in Cristo Gesù, santi per vocazione, insieme a tutti quelli che in ogni luogo invocano il nome del Signore nostro Gesù Cristo, Signore nostro e loro: grazia a voi e pace da Dio Padre nostro e dal Signore Gesù Cristo!\n\nRendo grazie continuamente al mio Dio per voi, a motivo della grazia di Dio che vi è stata data in Cristo Gesù, perché in lui siete stati arricchiti di tutti i doni, quelli della parola e quelli della conoscenza. La testimonianza di Cristo si è stabilita tra voi così saldamente, che non manca più alcun carisma a voi, che aspettate la manifestazione del Signore nostro Gesù Cristo. Egli vi renderà saldi sino alla fine, irreprensibili nel giorno del Signore nostro Gesù Cristo. Degno di fede è Dio, dal quale siete stati chiamati alla comunione con il Figlio suo Gesù Cristo, Signore nostro!"
+      "riferimento": "Prima Lettura — Geremia 1, 17-19",
+      "titolo": "Dal libro del profeta Geremìa",
+      "testo": "In quei giorni, mi fu rivolta questa parola del Signore:\n«Tu, stringi la veste ai fianchi, àlzati e di' loro tutto ciò che ti ordinerò; non spaventarti di fronte a loro, altrimenti sarò io a farti paura davanti a loro.\n\nEd ecco, oggi io faccio di te come una città fortificata, una colonna di ferro e un muro di bronzo contro tutto il paese, contro i re di Giuda e i suoi capi, contro i suoi sacerdoti e il popolo del paese.\n\nTi faranno guerra, ma non ti vinceranno, perché io sono con te per salvarti. Oracolo del Signore»."
     },
     "salmo": {
-      "riferimento": "Salmo responsoriale — Dal Sal 144 (145)",
-      "ritornello": "Rit. Benedirò il tuo nome per sempre, Signore.",
-      "versetti": "Ti voglio benedire ogni giorno,\nlodare il tuo nome in eterno e per sempre.\nGrande è il Signore e degno di ogni lode;\nsenza fine è la sua grandezza.\n\nUna generazione narra all'altra le tue opere,\nannuncia le tue imprese.\nIl glorioso splendore della tua maestà\ne le tue meraviglie voglio meditare.\n\nParlino della tua terribile potenza:\nanch'io voglio raccontare la tua grandezza.\nDiffondano il ricordo della tua bontà immensa,\nacclamino la tua giustizia."
+      "riferimento": "Salmo responsoriale — Dal Salmo 70 (71)",
+      "ritornello": "Rit. La mia bocca, Signore, racconterà la tua salvezza.",
+      "versetti": "In te, Signore, mi sono rifugiato, mai sarò deluso.\nPer la tua giustizia, difendimi e strappami al nemico;\ntendi a me il tuo orecchio e salvami.\n\nSii per me una roccia di rifugio,\nun luogo fortificato che mi salvi,\nperché mia rupe e mia fortezza tu sei.\n\nSei tu, mio Signore, la mia speranza,\nla mia fiducia, Signore, fin dalla mia giovinezza.\nSu di te mi appoggiai fin dal seno materno,\ndal grembo di mia madre sei tu il mio sostegno.\n\nLa mia bocca racconterà la tua giustizia,\nogni giorno la tua salvezza.\nFin dalla giovinezza, o Dio, mi hai istruito\ne oggi ancora proclamo le tue meraviglie."
     },
     "secondaLettura": null,
     "vangelo": {
-      "riferimento": "Santo Vangelo — Matteo 24, 42-51",
-      "titolo": "Dal Vangelo secondo Matteo",
-      "testo": "In quel tempo, Gesù disse ai suoi discepoli:\n«Vegliate, perché non sapete in quale giorno il Signore vostro verrà. Cercate di capire questo: se il padrone di casa sapesse a quale ora della notte viene il ladro, veglierebbe e non si lascerebbe scassinare la casa. Perciò anche voi tenetevi pronti perché, nell'ora che non immaginate, viene il Figlio dell'uomo.\n\nChi è dunque il servo fidato e prudente, che il padrone ha messo a capo dei suoi domestici per dare loro il cibo a tempo debito? Beato quel servo che il padrone, arrivando, troverà ad agire così! Davvero io vi dico: lo metterà a capo di tutti i suoi beni.\n\nMa se quel servo malvagio dicesse in cuor suo: \"Il mio padrone tarda\", e cominciasse a percuotere i suoi compagni e a mangiare e a bere con gli ubriaconi, il padrone di quel servo arriverà un giorno in cui non se l'aspetta e a un'ora che non sa, lo punirà severamente e gli infliggerà la sorte che meritano gli ipocriti: là sarà pianto e stridore di denti.»",
+      "riferimento": "Santo Vangelo — Marco 6, 17-29",
+      "titolo": "Dal Vangelo secondo Marco",
+      "testo": "In quel tempo, Erode aveva mandato a far arrestare Giovanni e lo aveva messo in prigione a causa di Erodìade, moglie di suo fratello Filippo, perché l'aveva sposata. Giovanni infatti diceva a Erode: «Non ti è lecito tenere con te la moglie di tuo fratello». Per questo Erodìade lo odiava e voleva farlo uccidere, ma non poteva, perché Erode temeva Giovanni, sapendolo uomo giusto e santo, e vigilava su di lui; nell'ascoltarlo restava molto perplesso, ma lo ascoltava volentieri.\n\nVenne però il giorno propizio, quando Erode, per il suo compleanno, fece un banchetto per i più alti funzionari della sua corte, gli ufficiali dell'esercito e i notabili della Galilea. Entrata la figlia della stessa Erodìade, danzò e piacque a Erode e ai commensali. Allora il re disse alla fanciulla: «Chiedimi quello che vuoi e io te lo darò». E le giurò più volte: «Qualsiasi cosa mi chiederai, te la darò, fosse anche la metà del mio regno».\n\nElla uscì e disse alla madre: «Che cosa devo chiedere?». Quella rispose: «La testa di Giovanni il Battista». E subito, entrata di corsa dal re, fece la richiesta, dicendo: «Voglio che tu mi dia adesso, su un vassoio, la testa di Giovanni il Battista». Il re, fattosi molto triste, a motivo del giuramento e dei commensali non volle opporle un rifiuto.\n\nE subito il re mandò una guardia con l'ordine che fosse portata la testa di Giovanni. La guardia andò, lo decapitò nella prigione e portò la testa su un vassoio, la diede alla fanciulla e la fanciulla la diede a sua madre. I discepoli di Giovanni, saputo il fatto, vennero, ne presero il cadavere e lo posero in un sepolcro.",
       "audioUrl": "https://media.vaticannews.va/media2/audio/s1/2026/08/07/12/139237933_F139237933.mp3"
     }
   },
   "omelia": {
-    "estratto": "«Vegliare non significa avere materialmente gli occhi aperti, ma avere il cuore libero e rivolto nella direzione giusta, cioè disposto al dono e al servizio. Il sonno da cui dobbiamo svegliarci è costituito dall'indifferenza, dalla vanità, dall'incapacità di farsi carico del fratello solo, abbandonato o malato.»",
+    "estratto": "«Giovanni Battista ci insegna che non ci sono compromessi con la verità. La vita ha valore solo nel donarla nell'amore, nella verità e nel servizio al Vangelo fino alla fine.»",
     "autore": "Papa Francesco",
-    "fonteNome": "Vatican News — Il pensiero del giorno",
+    "fonteNome": "Vatican News — Meditazione mattutina",
     "fonteUrl": "https://www.vaticannews.va/it/vangelo-del-giorno-e-parola-del-giorno.html",
-    "data": "Angelus, 1° dicembre 2019",
-    "testoCompleto": "Nel Vangelo di oggi, Gesù ci esorta ad essere pronti per la sua venuta: «Vegliate dunque, perché non sapete in quale giorno il Signore vostro verrà» (Mt 24,42). Vegliare non significa avere materialmente gli occhi aperti, ma avere il cuore libero e rivolto nella direzione giusta, cioè disposto al dono e al servizio. Questo è vegliare! Il sonno da cui dobbiamo svegliarci è costituito dall'indifferenza, dalla vanità, dall'incapacità di instaurare rapporti genuinamente umani, dell'incapacità di farsi carico del fratello solo, abbandonato o malato. L'attesa di Gesù che viene si deve tradurre, dunque, in un impegno di vigilanza. Si tratta anzitutto di meravigliarsi davanti all'azione di Dio, alle sue sorprese, e di dare a Lui il primato. Vigilanza significa anche, concretamente, essere attenti al nostro prossimo in difficoltà, lasciarsi interpellare dalle sue necessità, senza aspettare che lui o lei ci chiedano aiuto, ma imparare a prevenire, ad anticipare, come fa sempre Dio con noi. Maria, Vergine vigilante e Madre della speranza, ci guidi in questo cammino, aiutandoci a rivolgere lo sguardo verso il «monte del Signore», immagine di Gesù Cristo, che attira a sé tutti gli uomini e tutti i popoli."
+    "data": "Santa Marta, 29 agosto",
+    "testoCompleto": "La figura di Giovanni Battista brilla nel Vangelo come testimone supremo della Verità e dell'umiltà. Giovanni è l'uomo che non ha mai svenduto la verità: diceva chiaramente a Erode «Non ti è lecito!». Non cercava il consenso né il potere, ma compiva la sua missione di precursore, pronto a farsi da parte: «Bisogna che Lui cresca e io diminuisca». Nel dramma del suo martirio vediamo quattro volti: Erode, il re corrotto e indeciso, che ascolta la verità ma è schiavo della lussuria e del giudizio dei potenti; Erodiade, piena di odio e rancore implacabile; la figlia danzatrice, superficiale e vanitosa; e Giovanni, il profeta fedele, decapitato nella solitudine della cella. Giovanni dona la sua vita nel silenzio e nel nascondimento. Ci insegna che la vera grandezza del cristiano non è nei trionfi umani, ma nella fedeltà a Cristo, nell'umiltà del servizio quotidiano e nel coraggio di non scendere a compromessi con la verità."
   },
   "santo": {
-    "nome": "Santa Monica",
-    "titolo": "Memoria liturgica · Patrona delle madri e degli sposi",
-    "bio": "Monica nacque nel 331 a Tagaste, nell'odierna Algeria, da una famiglia di salde tradizioni cristiane. Sposò Patrizio e dedicò gran parte della propria vita alla preghiera costante per la sua conversione e per quella del figlio Agostino. Lo accompagnò con pazienza tra Tagaste, Cartagine e Milano, dove vide Agostino battezzato da sant'Ambrogio. Morì a Ostia nel 387, serena per la conversione compiuta del figlio.",
-    "scintilla": "Monica non ha convertito nessuno con un discorso o un rimprovero: ha resistito, anno dopo anno, restando accanto a chi amava senza mai smettere di crederci."
+    "nome": "Martirio di San Giovanni Battista",
+    "titolo": "Memoria liturgica · Precursore e Martire della Verità",
+    "bio": "San Giovanni Battista è l'unico santo, oltre alla Vergine Maria, di cui la Chiesa celebra sia la nascita terrena (24 giugno) che la nascita al cielo attraverso il martirio (29 agosto). Ultimo e più grande dei profeti dell'Antica Alleanza, additò Gesù come l'Agnello di Dio e sigillò con il sangue la fedeltà alla Legge divina denunciando l'immoralità della corte di Erode.",
+    "scintilla": "Giovanni ci ricorda che la verità non si svende: la fede autentica ha la forza di resistere anche quando la testimonianza costa tutto."
   },
-  "oggiProvaA": "Oggi impara ad anticipare: compi un gesto di aiuto verso una persona in difficoltà o sola, senza aspettare che sia lei a chiedertelo.",
-  "domandaPerTe": "Il tuo cuore è sveglio e attento ai bisogni di chi ti sta vicino, oppure rischi di vivere nell'abitudine e nella distrazione?",
+  "oggiProvaA": "Non scendere a compromessi con la verità: difendi oggi con dolcezza e fermezza una persona debole o un valore evangelico.",
+  "domandaPerTe": "Hai il coraggio di essere coerente con i valori della tua fede, anche quando è scomodo o richiede di andare controcorrente?",
   "treMinuti": {
-    "versetto": "«Vegliate, perché non sapete in quale giorno il Signore vostro verrà.» (Mt 24,42)",
-    "pensiero": "Vegliare è avere il cuore libero e disposto al dono e al servizio del fratello.",
-    "santo": "Santa Monica pregò con costanza e amore per anni, testimoniando che la speranza non delude.",
-    "gesto": "Fai oggi una sorpresa di bene a chi è solo o malato.",
-    "preghiera": "Signore Gesù, svegliaci dal sonno dell'indifferenza e riempi il nostro cuore della tua carità. Amen."
+    "versetto": "«Non ti è lecito tenere con te la moglie di tuo fratello.» (Mc 6,18)",
+    "pensiero": "La grandezza di Giovanni è stata l'umiltà di servire Cristo e la fortezza nel difendere la verità fino al martirio.",
+    "santo": "Il Battista ci insegna a mettere sempre Dio al primo posto nella nostra vita.",
+    "gesto": "Compi un gesto di coerenza e giustizia nel tuo lavoro o in famiglia.",
+    "preghiera": "Signore, donaci la grazia di testimoniare la tua verità con umiltà, carità e coraggio evangelico. Amen."
   },
-  "preghieraFinale": "Signore Gesù, sveglia il nostro cuore dal sonno dell'indifferenza e della distrazione. Rendici vigilanti nell'amore, pronti a riconoscere i tuoi passi negli incontri di ogni giorno e generosi nel servire chi è solo o in difficoltà. Fa' risplendere in noi la luce della tua speranza. Amen."
+  "preghieraFinale": "O Dio, che hai voluto che san Giovanni Battista fosse il precursore del tuo Figlio nella nascita e nella morte, concedi anche a noi che, come egli cadde martire per la verità e la giustizia, così combattiamo con forza per la testimonianza della tua parola. Per Cristo nostro Signore. Amen."
 }
