@@ -3,3 +3,7 @@ __pycache__/
 *$py.class
 .DS_Store
 Thumbs.db
+
+scripts/config.json
+scripts/secrets.json
+*.secret
