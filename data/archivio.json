@@ -239,5 +239,69 @@
       "preghiera": "Signore, donaci la grazia di testimoniare la tua verità con umiltà, carità e coraggio evangelico. Amen."
     },
     "preghieraFinale": "O Dio, che hai voluto che san Giovanni Battista fosse il precursore del tuo Figlio nella nascita e nella morte, concedi anche a noi che, come egli cadde martire per la verità e la giustizia, così combattiamo con forza per la testimonianza della tua parola. Per Cristo nostro Signore. Amen."
+  },
+  "2026-08-30": {
+    "data_iso": "2026-08-30",
+    "hero": {
+      "dataLeggibile": "Domenica 30 agosto 2026",
+      "liturgia": "XXII Domenica del Tempo Ordinario · Anno A (memoria facoltativa del Beato Alfredo Ildefonso Schuster, vescovo)",
+      "coloreLiturgico": "verde",
+      "tempoLiturgico": "Tempo Ordinario"
+    },
+    "fraseLuce": {
+      "testo": "«Se qualcuno vuole venire dietro a me, rinneghi se stesso, prenda la sua croce e mi segua.»",
+      "riferimento": "Mt 16,24"
+    },
+    "audio": {
+      "fonte": "Vatican News — Radio Vaticana",
+      "titolo": "Liturgia della Parola e Omelia del Papa",
+      "url": "https://media.vaticannews.va/media2/audio/s1/2026/07/13/15/139211558_F139211558.mp3",
+      "tipo": "audio/mpeg"
+    },
+    "letture": {
+      "primaLettura": {
+        "riferimento": "Prima Lettura — Geremia 20, 7-9",
+        "titolo": "Dal libro del profeta Geremìa",
+        "testo": "Mi hai sedotto, Signore, e io mi sono lasciato sedurre; mi hai fatto violenza e hai prevalso. Sono diventato oggetto di derisione ogni giorno; ognuno si fa beffe di me.\n\nQuando parlo, devo gridare, devo urlare: «Violenza! Oppressione!». Così la parola del Signore è diventata per me causa di vergogna e di scherno tutto il giorno.\n\nMi dicevo: «Non penserò più a lui, non parlerò più nel suo nome!». Ma nel mio cuore c'era come un fuoco ardente, trattenuto nelle mie ossa; mi sforzavo di contenerlo, ma non potevo."
+      },
+      "salmo": {
+        "riferimento": "Salmo responsoriale — Dal Salmo 62 (63)",
+        "ritornello": "Rit. Ha sete di te, Signore, l'anima mia.",
+        "versetti": "O Dio, tu sei il mio Dio, dall'aurora io ti cerco, ha sete di te l'anima mia, desidera te la mia carne, in terra arida, assetata, senz'acqua. Rit.\n\nCosì nel santuario ti ho contemplato, guardando la tua potenza e la tua gloria. Poiché il tuo amore vale più della vita, le mie labbra canteranno la tua lode. Rit.\n\nCosì ti benedirò per tutta la vita: nel tuo nome alzerò le mie mani. Come saziato dai cibi migliori, con labbra gioiose ti loderà la mia bocca. Rit.\n\nQuando penso a te che sei stato il mio aiuto, esulto di gioia all'ombra delle tue ali. A te si stringe l'anima mia: la tua destra mi sostiene. Rit."
+      },
+      "secondaLettura": {
+        "riferimento": "Seconda Lettura — Romani 12, 1-2",
+        "titolo": "Dalla lettera di san Paolo apostolo ai Romani",
+        "testo": "Fratelli, vi esorto, per la misericordia di Dio, a offrire i vostri corpi come sacrificio vivente, santo e gradito a Dio; è questo il vostro culto spirituale.\n\nNon conformatevi a questo mondo, ma lasciatevi trasformare rinnovando il vostro modo di pensare, per poter discernere la volontà di Dio, ciò che è buono, a lui gradito e perfetto."
+      },
+      "vangelo": {
+        "riferimento": "Santo Vangelo — Matteo 16, 21-27",
+        "titolo": "Dal Vangelo secondo Matteo",
+        "testo": "In quel tempo, Gesù cominciò a spiegare ai suoi discepoli che doveva andare a Gerusalemme e soffrire molto da parte degli anziani, dei capi dei sacerdoti e degli scribi, e venire ucciso e risorgere il terzo giorno.\n\nPietro lo prese in disparte e si mise a rimproverarlo dicendo: «Dio non voglia, Signore; questo non ti accadrà mai». Ma egli, voltandosi, disse a Pietro: «Va' dietro a me, Satana! Tu mi sei di scandalo, perché non pensi secondo Dio, ma secondo gli uomini!».\n\nAllora Gesù disse ai suoi discepoli: «Se qualcuno vuole venire dietro a me, rinneghi se stesso, prenda la sua croce e mi segua. Perché chi vuole salvare la propria vita, la perderà; ma chi perderà la propria vita per causa mia, la troverà. Infatti quale vantaggio avrà un uomo se guadagnerà il mondo intero, ma perderà la propria vita? O che cosa un uomo potrà dare in cambio della propria vita? Perché il Figlio dell'uomo sta per venire nella gloria del Padre suo, con i suoi angeli, e allora renderà a ciascuno secondo le sue azioni».",
+        "audioUrl": "https://media.vaticannews.va/media2/audio/s1/2026/07/13/15/139211558_F139211558.mp3"
+      }
+    },
+    "omelia": {
+      "estratto": "«Diabolico è mettersi davanti – “Va' dietro a me, Satana!” –, la voglia che Cristo venga dove vorremmo andare noi: a schiantarci contro il muro della fantasia.»",
+      "autore": "don Marco Pozza",
+      "fonteNome": "Cerco il tuo volto",
+      "fonteUrl": "https://www.cercoiltuovolto.it/don-marco-pozza-commento-al-vangelo-di-domenica-30-agosto-2026/",
+      "data": "Commento al Vangelo di domenica 30 agosto 2026"
+    },
+    "santo": {
+      "nome": "Beato Alfredo Ildefonso Schuster",
+      "bio": "Alfredo Ludovico Luigi Schuster nacque a Roma il 18 gennaio 1880, da una famiglia di origine bavarese. Rimasto orfano di padre in giovane età, entrò a soli undici anni nel monastero benedettino di San Paolo fuori le Mura. Nel 1898 iniziò il noviziato assumendo il nome di Ildefonso e l'anno seguente emise i voti monastici; fu ordinato sacerdote nel 1904. Divenne maestro dei novizi, procuratore generale della Congregazione Cassinese e, nel 1918, abate di San Paolo fuori le Mura, dedicandosi anche allo studio della storia della Chiesa, dell'archeologia cristiana e della liturgia. Il 26 giugno 1929 papa Pio XI lo nominò arcivescovo di Milano, elevandolo poi al cardinalato. Guidò la diocesi ambrosiana per venticinque anni, tra i più difficili del Novecento, segnati dalla guerra e dalla ricostruzione, restando fedele al motto benedettino «ora et labora». Morì a Venegono all'alba del 30 agosto 1954. Giovanni Paolo II lo proclamò beato il 12 maggio 1996.",
+      "scintilla": "Schuster ha attraversato anni di guerra e macerie restando un uomo di preghiera prima che di potere: ricorda che si può guidare, e persino riformare, senza mai smettere di inginocchiarsi."
+    },
+    "oggiProvaA": "Oggi scegli di mettere da parte, anche solo per un'ora, quello che 'vorresti tu' e fai spazio a ciò che qualcuno vicino a te sta chiedendo davvero.",
+    "domandaPerTe": "C'è qualcosa nella tua vita a cui ti aggrappi così forte da avere paura di perderlo?",
+    "treMinuti": {
+      "versetto": "«Se qualcuno vuole venire dietro a me, rinneghi se stesso, prenda la sua croce e mi segua.» (Mt 16,24)",
+      "pensiero": "Seguire Cristo non significa subire la vita, ma sceglierla ogni giorno, anche quando costa.",
+      "santo": "Il Beato Ildefonso Schuster, arcivescovo di Milano, univa il governo della diocesi a una vita intera di preghiera silenziosa.",
+      "gesto": "Metti da parte per un momento ciò che vorresti tu e fai spazio a chi ti sta accanto.",
+      "preghiera": "Signore, insegnami a non temere la fatica di ogni giorno, ma a viverla con te, per ritrovare in te la mia vita vera."
+    },
+    "preghieraFinale": "Signore Gesù, che hai scelto la via della croce per amore nostro, insegnaci a non fuggire la fatica di ogni giorno ma ad attraversarla con te. Liberaci dalla paura di perdere ciò a cui teniamo, perché solo donando la vita la si ritrova piena. Rendi il nostro cuore libero, capace di seguirti senza calcoli, fino a incontrare in te la vera vita. Amen."
   }
 }
