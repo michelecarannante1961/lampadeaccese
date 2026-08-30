@@ -1,62 +1,48 @@
 {
-  "data_iso": "2026-08-29",
+  "data_iso": "2026-08-30",
   "hero": {
-    "dataLeggibile": "Sabato 29 agosto 2026",
-    "liturgia": "XXI Settimana del Tempo Ordinario · Martirio di San Giovanni Battista",
-    "coloreLiturgico": "rosso",
-    "tempoLiturgico": "Tempo Ordinario"
+    "dataLeggibile": "Domenica 30 agosto 2026",
+    "liturgia": "XXII Domenica del Tempo Ordinario · Anno A (memoria facoltativa del Beato Alfredo Ildefonso Schuster, vescovo)"
   },
   "fraseLuce": {
-    "testo": "«Non ti è lecito tenere con te la moglie di tuo fratello.»",
-    "riferimento": "Mc 6,18"
-  },
-  "audio": {
-    "fonte": "Vatican News — Radio Vaticana",
-    "titolo": "Liturgia della Parola e Omelia del Papa",
-    "url": "https://media.vaticannews.va/media2/audio/s1/2026/08/07/12/139237941_F139237941.mp3",
-    "tipo": "audio/mpeg"
+    "testo": "«Se qualcuno vuole venire dietro a me, rinneghi se stesso, prenda la sua croce e mi segua.»",
+    "riferimento": "Mt 16,24"
   },
   "letture": {
     "primaLettura": {
-      "riferimento": "Prima Lettura — Geremia 1, 17-19",
-      "titolo": "Dal libro del profeta Geremìa",
-      "testo": "In quei giorni, mi fu rivolta questa parola del Signore:\n«Tu, stringi la veste ai fianchi, àlzati e di' loro tutto ciò che ti ordinerò; non spaventarti di fronte a loro, altrimenti sarò io a farti paura davanti a loro.\n\nEd ecco, oggi io faccio di te come una città fortificata, una colonna di ferro e un muro di bronzo contro tutto il paese, contro i re di Giuda e i suoi capi, contro i suoi sacerdoti e il popolo del paese.\n\nTi faranno guerra, ma non ti vinceranno, perché io sono con te per salvarti. Oracolo del Signore»."
+      "riferimento": "Prima Lettura — Geremia 20, 7-9",
+      "testo": "Mi hai sedotto, Signore, e io mi sono lasciato sedurre; mi hai fatto forza e hai prevalso. Sono diventato oggetto di scherno ogni giorno; ognuno si fa beffe di me.\n\nQuando parlo, devo gridare, devo proclamare: «Violenza! Oppressione!». Così la parola del Signore è diventata per me motivo di obbrobrio e di scherno ogni giorno.\n\nMi dicevo: «Non penserò più a lui, non parlerò più in suo nome!». Ma nel mio cuore c'era come un fuoco ardente, chiuso nelle mie ossa; mi sforzavo di contenerlo, ma non potevo."
     },
     "salmo": {
-      "riferimento": "Salmo responsoriale — Dal Salmo 70 (71)",
-      "ritornello": "Rit. La mia bocca, Signore, racconterà la tua salvezza.",
-      "versetti": "In te, Signore, mi sono rifugiato, mai sarò deluso.\nPer la tua giustizia, difendimi e strappami al nemico;\ntendi a me il tuo orecchio e salvami.\n\nSii per me una roccia di rifugio,\nun luogo fortificato che mi salvi,\nperché mia rupe e mia fortezza tu sei.\n\nSei tu, mio Signore, la mia speranza,\nla mia fiducia, Signore, fin dalla mia giovinezza.\nSu di te mi appoggiai fin dal seno materno,\ndal grembo di mia madre sei tu il mio sostegno.\n\nLa mia bocca racconterà la tua giustizia,\nogni giorno la tua salvezza.\nFin dalla giovinezza, o Dio, mi hai istruito\ne oggi ancora proclamo le tue meraviglie."
+      "riferimento": "Salmo responsoriale — Dal Salmo 62 (63)",
+      "ritornello": "Rit. Ha sete di te, Signore, l'anima mia."
     },
-    "secondaLettura": null,
     "vangelo": {
-      "riferimento": "Santo Vangelo — Marco 6, 17-29",
-      "titolo": "Dal Vangelo secondo Marco",
-      "testo": "In quel tempo, Erode aveva mandato a far arrestare Giovanni e lo aveva messo in prigione a causa di Erodìade, moglie di suo fratello Filippo, perché l'aveva sposata. Giovanni infatti diceva a Erode: «Non ti è lecito tenere con te la moglie di tuo fratello». Per questo Erodìade lo odiava e voleva farlo uccidere, ma non poteva, perché Erode temeva Giovanni, sapendolo uomo giusto e santo, e vigilava su di lui; nell'ascoltarlo restava molto perplesso, ma lo ascoltava volentieri.\n\nVenne però il giorno propizio, quando Erode, per il suo compleanno, fece un banchetto per i più alti funzionari della sua corte, gli ufficiali dell'esercito e i notabili della Galilea. Entrata la figlia della stessa Erodìade, danzò e piacque a Erode e ai commensali. Allora il re disse alla fanciulla: «Chiedimi quello che vuoi e io te lo darò». E le giurò più volte: «Qualsiasi cosa mi chiederai, te la darò, fosse anche la metà del mio regno».\n\nElla uscì e disse alla madre: «Che cosa devo chiedere?». Quella rispose: «La testa di Giovanni il Battista». E subito, entrata di corsa dal re, fece la richiesta, dicendo: «Voglio che tu mi dia adesso, su un vassoio, la testa di Giovanni il Battista». Il re, fattosi molto triste, a motivo del giuramento e dei commensali non volle opporle un rifiuto.\n\nE subito il re mandò una guardia con l'ordine che fosse portata la testa di Giovanni. La guardia andò, lo decapitò nella prigione e portò la testa su un vassoio, la diede alla fanciulla e la fanciulla la diede a sua madre. I discepoli di Giovanni, saputo il fatto, vennero, ne presero il cadavere e lo posero in un sepolcro.",
-      "audioUrl": "https://media.vaticannews.va/media2/audio/s1/2026/08/07/12/139237941_F139237941.mp3"
+      "riferimento": "Santo Vangelo — Matteo 16, 21-27",
+      "testo": "In quel tempo, Gesù cominciò a spiegare ai suoi discepoli che doveva andare a Gerusalemme e soffrire molto da parte degli anziani, dei capi dei sacerdoti e degli scribi, e venire ucciso e risorgere il terzo giorno.\n\nPietro lo prese in disparte e si mise a rimproverarlo dicendo: «Dio non voglia, Signore; questo non ti accadrà mai». Ma egli, voltandosi, disse a Pietro: «Va' dietro a me, Satana! Tu mi sei di scandalo, perché non pensi secondo Dio, ma secondo gli uomini!».\n\nAllora Gesù disse ai suoi discepoli: «Se qualcuno vuole venire dietro a me, rinneghi se stesso, prenda la sua croce e mi segua. Perché chi vuole salvare la propria vita, la perderà; ma chi perderà la propria vita per causa mia, la troverà. Infatti quale vantaggio avrà un uomo se guadagnerà il mondo intero, ma perderà la propria vita? O che cosa un uomo potrà dare in cambio della propria vita? Perché il Figlio dell'uomo sta per venire nella gloria del Padre suo, con i suoi angeli, e allora renderà a ciascuno secondo le sue azioni».",
+      "audioUrl": null
     }
   },
   "omelia": {
-    "estratto": "«Celebrare il martirio di san Giovanni Battista ricorda anche a noi, cristiani di questo nostro tempo, che non si può scendere a compromessi con l'amore a Cristo, con la sua Parola, con la Verità. La Verità è Verità, non ci sono compromessi. La vita cristiana esige il \"martirio\" della fedeltà quotidiana al Vangelo.»",
-    "autore": "Benedetto XVI",
-    "fonteNome": "Vatican.va — Udienza Generale",
-    "fonteUrl": "https://www.vatican.va/content/benedict-xvi/it/audiences/2012/documents/hf_ben-xvi_aud_20120829.html",
-    "data": "Udienza generale, 29 agosto 2012",
-    "testoCompleto": "Da dove nasce questa vita, questa interiorità così forte, così integra, così coerente, spesa così totalmente per Dio e a preparare la strada a Gesù? La risposta è semplice: dal rapporto con Dio, dalla preghiera, che è il filo conduttore di tutta la sua esistenza.\n\nCelebrare il martirio di san Giovanni Battista ricorda anche a noi, cristiani di questo nostro tempo, che non si può scendere a compromessi con l'amore a Cristo, con la sua Parola, con la Verità. La Verità è Verità, non ci sono compromessi. La vita cristiana esige, per così dire, il «martirio» della fedeltà quotidiana al Vangelo, il coraggio cioè di lasciare che Cristo cresca in noi e sia Cristo a orientare il nostro pensiero e le nostre azioni.\n\nMa questo può avvenire nella nostra vita solo se è solido il rapporto con Dio. La preghiera non è tempo perso, non è rubare spazio alle attività, anche a quelle apostoliche, ma è esattamente il contrario: solo se siamo capaci di una vita di preghiera fedele, costante, fiduciosa, sarà Dio stesso a darci capacità e forza per vivere in modo felice e sereno, superare le difficoltà e testimoniarlo con coraggio."
+    "estratto": "«Diabolico è mettersi davanti – “Va' dietro a me, Satana!” –, la voglia che Cristo venga dove vorremmo andare noi: a schiantarci contro il muro della fantasia.»",
+    "autore": "don Marco Pozza",
+    "fonteNome": "Cerco il tuo volto",
+    "fonteUrl": "https://www.cercoiltuovolto.it/don-marco-pozza-commento-al-vangelo-di-domenica-30-agosto-2026/",
+    "data": "Commento al Vangelo di domenica 30 agosto 2026"
   },
   "santo": {
-    "nome": "Martirio di San Giovanni Battista",
-    "titolo": "Memoria liturgica · Precursore e Martire della Verità",
-    "bio": "San Giovanni Battista è l'unico santo, oltre alla Vergine Maria, di cui la Chiesa celebra sia la nascita terrena (24 giugno) che la nascita al cielo attraverso il martirio (29 agosto). Ultimo e più grande dei profeti dell'Antica Alleanza, additò Gesù come l'Agnello di Dio e sigillò con il sangue la fedeltà alla Legge divina denunciando l'immoralità della corte di Erode.",
-    "scintilla": "Giovanni ci ricorda che la verità non si svende: la fede autentica ha la forza di resistere anche quando la testimonianza costa tutto."
+    "nome": "Beato Alfredo Ildefonso Schuster",
+    "bio": "Alfredo Ludovico Luigi Schuster nacque a Roma il 18 gennaio 1880, da una famiglia di origine bavarese. Rimasto orfano di padre in giovane età, entrò a soli undici anni nel monastero benedettino di San Paolo fuori le Mura. Nel 1898 iniziò il noviziato assumendo il nome di Ildefonso e l'anno seguente emise i voti monastici; fu ordinato sacerdote nel 1904. Divenne maestro dei novizi, procuratore generale della Congregazione Cassinese e, nel 1918, abate di San Paolo fuori le Mura, dedicandosi anche allo studio della storia della Chiesa, dell'archeologia cristiana e della liturgia. Il 26 giugno 1929 papa Pio XI lo nominò arcivescovo di Milano, elevandolo poi al cardinalato. Guidò la diocesi ambrosiana per venticinque anni, tra i più difficili del Novecento, segnati dalla guerra e dalla ricostruzione, restando fedele al motto benedettino «ora et labora». Morì a Venegono all'alba del 30 agosto 1954. Giovanni Paolo II lo proclamò beato il 12 maggio 1996.",
+    "scintilla": "Schuster ha attraversato anni di guerra e macerie restando un uomo di preghiera prima che di potere: ricorda che si può guidare, e persino riformare, senza mai smettere di inginocchiarsi."
   },
-  "oggiProvaA": "Non scendere a compromessi con la verità: difendi oggi con dolcezza e fermezza una persona debole o un valore evangelico.",
-  "domandaPerTe": "Hai il coraggio di essere coerente con i valori della tua fede, anche quando è scomodo o richiede di andare controcorrente?",
+  "oggiProvaA": "Oggi scegli di mettere da parte, anche solo per un'ora, quello che 'vorresti tu' e fai spazio a ciò che qualcuno vicino a te sta chiedendo davvero.",
+  "domandaPerTe": "C'è qualcosa nella tua vita a cui ti aggrappi così forte da avere paura di perderlo?",
   "treMinuti": {
-    "versetto": "«Non ti è lecito tenere con te la moglie di tuo fratello.» (Mc 6,18)",
-    "pensiero": "La vita cristiana esige il «martirio» della fedeltà quotidiana al Vangelo, lasciando che Cristo orienti i nostri pensieri e azioni.",
-    "santo": "Il Battista ci insegna a mettere sempre Dio al primo posto nella nostra vita.",
-    "gesto": "Compi un gesto di coerenza e giustizia nel tuo lavoro o in famiglia.",
-    "preghiera": "Signore, donaci la grazia di testimoniare la tua verità con umiltà, carità e coraggio evangelico. Amen."
+    "versetto": "«Se qualcuno vuole venire dietro a me, rinneghi se stesso, prenda la sua croce e mi segua.» (Mt 16,24)",
+    "pensiero": "Seguire Cristo non significa subire la vita, ma sceglierla ogni giorno, anche quando costa.",
+    "santo": "Il Beato Ildefonso Schuster, arcivescovo di Milano, univa il governo della diocesi a una vita intera di preghiera silenziosa.",
+    "gesto": "Metti da parte per un momento ciò che vorresti tu e fai spazio a chi ti sta accanto.",
+    "preghiera": "Signore, insegnami a non temere la fatica di ogni giorno, ma a viverla con te, per ritrovare in te la mia vita vera."
   },
-  "preghieraFinale": "O Dio, che hai voluto che san Giovanni Battista fosse il precursore del tuo Figlio nella nascita e nella morte, concedi anche a noi che, come egli cadde martire per la verità e la giustizia, così combattiamo con forza per la testimonianza della tua parola. Per Cristo nostro Signore. Amen."
+  "preghieraFinale": "Signore Gesù, che hai scelto la via della croce per amore nostro, insegnaci a non fuggire la fatica di ogni giorno ma ad attraversarla con te. Liberaci dalla paura di perdere ciò a cui teniamo, perché solo donando la vita la si ritrova piena. Rendi il nostro cuore libero, capace di seguirti senza calcoli, fino a incontrare in te la vera vita. Amen."
 }
