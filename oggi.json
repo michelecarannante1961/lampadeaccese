@@ -1,53 +1,53 @@
 {
-  "data_iso": "2026-09-15",
+  "data_iso": "2026-09-16",
   "hero": {
-    "dataLeggibile": "Martedì 15 settembre 2026",
-    "liturgia": "XXIV Settimana del Tempo Ordinario - Memoria della Beata Vergine Maria Addolorata",
-    "coloreLiturgico": "bianco",
+    "dataLeggibile": "Mercoledì 16 settembre 2026",
+    "liturgia": "XXIV Settimana del Tempo Ordinario - Memoria dei Santi Cornelio, papa, e Cipriano, vescovo, martiri",
+    "coloreLiturgico": "rosso",
     "tempoLiturgico": "Tempo Ordinario"
   },
   "fraseLuce": {
-    "testo": "Donna, ecco tuo figlio!",
-    "riferimento": "Gv 19,26"
+    "testo": "Ma la Sapienza è stata riconosciuta giusta da tutti i suoi figli.",
+    "riferimento": "Lc 7,35"
   },
   "letture": {
     "primaLettura": {
-      "riferimento": "Eb 5,7-9",
-      "titolo": "Dalla lettera agli Ebrei",
-      "testo": "Fratelli, Cristo, nei giorni della sua vita terrena, offrì preghiere e suppliche, con forti grida e lacrime, a Dio che poteva salvarlo da morte e, per il suo pieno abbandono a lui, venne esaudito.\n\nPur essendo Figlio, imparò tuttavia l'obbedienza da ciò che patì e, reso perfetto, divenne causa di salvezza eterna per tutti coloro che gli obbediscono."
+      "riferimento": "1 Cor 12,31-13,13",
+      "titolo": "Dalla prima lettera di san Paolo apostolo ai Corinzi",
+      "testo": "Fratelli, desiderate intensamente i carismi più grandi. E allora, vi mostro la via più sublime.\n\nSe parlassi le lingue degli uomini e degli angeli, ma non avessi la carità, sarei come bronzo che rimbomba o come cimbalo che strepita. E se avessi il dono della profezia, se conoscessi tutti i misteri e avessi tutta la conoscenza, se possedessi tanta fede da trasportare le montagne, ma non avessi la carità, non sarei nulla. E se anche dessi in cibo tutti i miei beni e consegnassi il mio corpo per averne vanto, ma non avessi la carità, a nulla mi servirebbe.\n\nLa carità è magnanima, benevola è la carità; non è invidiosa, non si vanta, non si gonfia d'orgoglio, non manca di rispetto, non cerca il proprio interesse, non si adira, non tiene conto del male ricevuto, non gode dell'ingiustizia ma si rallegra della verità. Tutto scusa, tutto crede, tutto spera, tutto sopporta.\n\nLa carità non avrà mai fine. Le profezie scompariranno; il dono delle lingue cesserà e la scienza svanirà. Quando ero fanciullo, parlavo da fanciullo, pensavo da fanciullo, ragionavo da fanciullo. Ma, divenuto uomo, ciò che era da fanciullo l'ho abbandonato. Ora vediamo come in uno specchio, in maniera confusa; allora vedremo faccia a faccia. Ora conosco in modo imperfetto, ma allora conoscerò perfettamente, come anch'io sono conosciuto.\n\nOra dunque rimangono queste tre cose: la fede, la speranza e la carità; ma di tutte più grande è la carità."
     },
     "salmo": {
-      "riferimento": "Sal 30 (31)",
-      "ritornello": "Salvami, Signore, per la tua misericordia.",
-      "versetti": "In te, Signore, mi sono rifugiato,\nmai sarò deluso;\nper la tua giustizia salvami.\nTendi a me il tuo orecchio,\naffrettati a liberarmi.\n\nMa io confido in te, Signore;\ndico: «Tu sei il mio Dio,\nnelle tue mani sono i miei giorni».\nLiberami dalla mano dei miei nemici,\ndai miei persecutori.\n\nSul tuo servo fa' risplendere il tuo volto,\nsalvami per la tua misericordia.\nAlle tue mani affido il mio spirito;\ntu mi hai riscattato, Signore, Dio fedele."
+      "riferimento": "Sal 32 (33)",
+      "ritornello": "Beato il popolo che il Signore si è scelto come erede.",
+      "versetti": "Esultate, giusti, nel Signore;\nai retti si addice la lode.\nLodate il Signore con la cetra,\ncon l'arpa a dieci corde a lui cantate.\n\nRetta è la parola del Signore\ne fedele ogni sua opera.\nEgli ama la giustizia e il diritto;\ndell'amore del Signore è piena la terra.\n\nBeata la nazione il cui Dio è il Signore,\nil popolo che egli ha scelto come sua eredità."
     },
     "vangelo": {
-      "riferimento": "Gv 19,25-27",
-      "titolo": "Dal Vangelo secondo Giovanni",
-      "testo": "In quel tempo, stavano presso la croce di Gesù sua madre, la sorella di sua madre, Maria madre di Clèopa e Maria di Màgdala.\n\nGesù allora, vedendo la madre e accanto a lei il discepolo che egli amava, disse alla madre: «Donna, ecco tuo figlio!». Poi disse al discepolo: «Ecco tua madre!». E da quell'ora il discepolo l'accolse con sé.",
+      "riferimento": "Lc 7,31-35",
+      "titolo": "Dal Vangelo secondo Luca",
+      "testo": "In quel tempo, il Signore disse: «A chi posso paragonare la gente di questa generazione? A chi è simile? È simile a bambini che, seduti in piazza, gridano gli uni agli altri così: \"Vi abbiamo suonato il flauto e non avete ballato, abbiamo cantato un lamento e non avete pianto!\".\n\nÈ venuto infatti Giovanni il Battista, che non mangia pane e non beve vino, e voi dite: \"È indemoniato\". È venuto il Figlio dell'uomo, che mangia e beve, e voi dite: \"Ecco un mangione e un beone, un amico di pubblicani e di peccatori!\".\n\nMa la Sapienza è stata riconosciuta giusta da tutti i suoi figli».",
       "audioUrl": null
     }
   },
   "omelia": {
-    "estratto": "La ricordiamo non per il suo grande dolore, ma perché non si è lasciata paralizzare da quel dolore, restando salda nella fede e abitando la speranza. Resta sotto la croce come un albero dalle radici profonde: nessuna tempesta riesce a sradicarla.",
-    "autore": "don Paolo Curtaz",
-    "fonteNome": "paolocurtaz.it",
-    "fonteUrl": "https://paolocurtaz.it/2026/09/addolorata-5/",
-    "data": "15 settembre 2026"
+    "estratto": "«Tutti siamo o siamo stati figli e sappiamo come il rapporto genitori-figli cambia nel tempo»: da bambini c'è «totale abbandono, ammirazione, amore senza riserve», ma si rischia di diventare come la generazione a cui si rivolge Gesù, «eternamente scontenta» - chiusa di cuore e mente, capace solo di giudicare a priori. «I figli che riconoscono e manifestano la Sapienza sono proprio i meno sapienti, quelli che si sanno comportare come bambini».",
+    "autore": "Redazione diocesana",
+    "fonteNome": "Diocesi di Sora, Cassino, Aquino e Pontecorvo",
+    "fonteUrl": "https://www.diocesisora.it/diocesi/16-settembre-2026-commento-al-vangelo/",
+    "data": "16 settembre 2026"
   },
   "santo": {
-    "nome": "Beata Vergine Maria Addolorata",
-    "bio": "Il 15 settembre, giorno successivo alla festa dell'Esaltazione della Santa Croce, la Chiesa celebra la Beata Vergine Maria Addolorata, ricordando la partecipazione di Maria alla passione del Figlio, in particolare la sua presenza silenziosa ai piedi della croce narrata dal Vangelo di Giovanni. La devozione ai dolori di Maria ha radici medievali e si è sviluppata attraverso la tradizione dei 'Sette Dolori', dalla profezia di Simeone alla sepoltura di Gesù, diffusa soprattutto dall'Ordine dei Servi di Maria. Fu papa Pio VII, nel 1814, a estendere questa memoria a tutta la Chiesa, in segno di gratitudine per la protezione di Maria durante i tormentati anni delle guerre napoleoniche. Nel 1913 san Pio X, riformando il calendario liturgico, ne fissò la data al 15 settembre, sostituendo il titolo di 'Sette Dolori' con quello più essenziale di 'Beata Vergine Maria Addolorata'. Il colore liturgico della memoria è il bianco, perché il dolore di Maria non è disperazione ma partecipazione fedele al mistero pasquale.",
-    "scintilla": "Chi oggi porta un dolore che non può cambiare può guardare a Maria: restare, senza fuggire e senza spiegazioni, è già una forma di amore che nessuna tempesta riesce a sradicare."
+    "nome": "Santi Cornelio, papa, e Cipriano, vescovo, martiri",
+    "bio": "Cornelio fu eletto vescovo di Roma nel 251, in un momento difficile per la Chiesa, appena uscita dalla persecuzione dell'imperatore Decio. Si distinse per la scelta di riaccogliere con misericordia i cristiani che, per paura, avevano rinnegato la fede durante la persecuzione (i cosiddetti \"lapsi\"), opponendosi alla linea rigorista di Novaziano, che si era fatto eleggere antipapa proprio su questo dissenso. Cipriano, vescovo di Cartagine, retore colto convertitosi al cristianesimo attorno al 246, sostenne con forza Cornelio, difendendo l'unità della Chiesa contro lo scisma. I due non si incontrarono mai di persona, ma rimasero uniti da una fitta corrispondenza e da una comune visione pastorale. Cornelio morì in esilio a Civitavecchia nel 253, durante la persecuzione dell'imperatore Gallo; il suo corpo fu poi sepolto nelle catacombe di San Callisto a Roma. Cipriano fu decapitato a Cartagine nel 258. La Chiesa li ricorda insieme fin dall'antichità, come testimoni di una fede che non separa la verità dalla comunione.",
+    "scintilla": "Cornelio e Cipriano non si scelsero come alleati comodi, ma restarono uniti pur nella distanza: oggi possono ricordarci che la fedeltà a una comunità vale più della ragione che vorremmo sempre avere da soli."
   },
-  "oggiProvaA": "Oggi prova a restare accanto a qualcuno che sta attraversando un momento difficile, anche solo con la tua presenza silenziosa, senza cercare parole risolutive.",
-  "domandaPerTe": "C'è un dolore, tuo o di chi ti sta vicino, davanti al quale hai scelto di restare invece di fuggire?",
+  "oggiProvaA": "Oggi prova a sospendere il giudizio su una persona o una proposta che normalmente scarteresti subito: dalle un'attenzione in più prima di dire no.",
+  "domandaPerTe": "C'è qualcuno o qualcosa che hai già giudicato a priori, senza dargli davvero ascolto?",
   "treMinuti": {
-    "versetto": "«Donna, ecco tuo figlio!» Poi disse al discepolo: «Ecco tua madre!» (Gv 19,26-27)",
-    "pensiero": "Ai piedi della croce Maria non fugge: resta, e la sua presenza diventa dono per tutti.",
-    "santo": "Beata Vergine Maria Addolorata: la Madre che condivide fino in fondo la passione del Figlio, senza perdere la fede.",
-    "gesto": "Resta accanto a chi soffre, anche solo in silenzio, senza cercare parole risolutive.",
-    "preghiera": "Maria, Madre Addolorata, insegnaci a restare fedeli anche quando non capiamo, affidando ogni dolore alle mani di Dio."
+    "versetto": "«Ma la Sapienza è stata riconosciuta giusta da tutti i suoi figli» (Lc 7,35)",
+    "pensiero": "Il cuore chiuso trova sempre una scusa per non lasciarsi toccare, qualunque sia il linguaggio con cui Dio si fa vicino.",
+    "santo": "Santi Cornelio e Cipriano: un papa e un vescovo che scelsero l'unità della Chiesa invece delle proprie ragioni, fino al martirio.",
+    "gesto": "Sospendi il giudizio su chi o cosa scarteresti subito, e dagli un'attenzione in più.",
+    "preghiera": "Signore, apri il mio cuore a chi non mi somiglia, perché non giudichi prima ancora di ascoltare."
   },
-  "preghieraFinale": "Signore Gesù, che dalla croce hai affidato tua Madre al discepolo amato, insegnaci a restare accanto a chi soffre invece di fuggire. Come Maria, aiutaci a custodire la fede quando non troviamo risposte, ad affidare i nostri giorni nelle tue mani e a diventare, per chi ci sta vicino, un segno della tua presenza fedele. Amen."
+  "preghieraFinale": "Signore Gesù, tu che bussi al nostro cuore con voci diverse e spesso lo trovi chiuso, insegnaci ad ascoltare senza pregiudizi. Come Cornelio e Cipriano seppero restare uniti nella prova, aiutaci a preferire la comunione alle nostre ragioni. Rendi il nostro amore paziente e vero, capace di sopportare, credere e sperare ogni cosa, oggi e sempre. Amen."
 }
