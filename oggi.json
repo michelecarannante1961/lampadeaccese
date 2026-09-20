@@ -1,53 +1,58 @@
 {
-  "data_iso": "2026-09-16",
+  "data_iso": "2026-09-20",
   "hero": {
-    "dataLeggibile": "Mercoledì 16 settembre 2026",
-    "liturgia": "XXIV Settimana del Tempo Ordinario - Memoria dei Santi Cornelio, papa, e Cipriano, vescovo, martiri",
-    "coloreLiturgico": "rosso",
+    "dataLeggibile": "Domenica 20 settembre 2026",
+    "liturgia": "XXV Domenica del Tempo Ordinario - Anno A",
+    "coloreLiturgico": "verde",
     "tempoLiturgico": "Tempo Ordinario"
   },
   "fraseLuce": {
-    "testo": "Ma la Sapienza è stata riconosciuta giusta da tutti i suoi figli.",
-    "riferimento": "Lc 7,35"
+    "testo": "Non posso fare delle mie cose quello che voglio? Oppure tu sei invidioso perché io sono buono?",
+    "riferimento": "Mt 20,15"
   },
   "letture": {
     "primaLettura": {
-      "riferimento": "1 Cor 12,31-13,13",
-      "titolo": "Dalla prima lettera di san Paolo apostolo ai Corinzi",
-      "testo": "Fratelli, desiderate intensamente i carismi più grandi. E allora, vi mostro la via più sublime.\n\nSe parlassi le lingue degli uomini e degli angeli, ma non avessi la carità, sarei come bronzo che rimbomba o come cimbalo che strepita. E se avessi il dono della profezia, se conoscessi tutti i misteri e avessi tutta la conoscenza, se possedessi tanta fede da trasportare le montagne, ma non avessi la carità, non sarei nulla. E se anche dessi in cibo tutti i miei beni e consegnassi il mio corpo per averne vanto, ma non avessi la carità, a nulla mi servirebbe.\n\nLa carità è magnanima, benevola è la carità; non è invidiosa, non si vanta, non si gonfia d'orgoglio, non manca di rispetto, non cerca il proprio interesse, non si adira, non tiene conto del male ricevuto, non gode dell'ingiustizia ma si rallegra della verità. Tutto scusa, tutto crede, tutto spera, tutto sopporta.\n\nLa carità non avrà mai fine. Le profezie scompariranno; il dono delle lingue cesserà e la scienza svanirà. Quando ero fanciullo, parlavo da fanciullo, pensavo da fanciullo, ragionavo da fanciullo. Ma, divenuto uomo, ciò che era da fanciullo l'ho abbandonato. Ora vediamo come in uno specchio, in maniera confusa; allora vedremo faccia a faccia. Ora conosco in modo imperfetto, ma allora conoscerò perfettamente, come anch'io sono conosciuto.\n\nOra dunque rimangono queste tre cose: la fede, la speranza e la carità; ma di tutte più grande è la carità."
+      "riferimento": "Is 55,6-9",
+      "titolo": "Dal libro del profeta Isaìa",
+      "testo": "Cercate il Signore, mentre si fa trovare, invocatelo, mentre è vicino. L'empio abbandoni la sua via e l'uomo iniquo i suoi pensieri; ritorni al Signore che avrà misericordia di lui e al nostro Dio che largamente perdona.\n\nPerché i miei pensieri non sono i vostri pensieri, le vostre vie non sono le mie vie. Oracolo del Signore. Quanto il cielo sovrasta la terra, tanto le mie vie sovrastano le vostre vie, i miei pensieri sovrastano i vostri pensieri."
     },
     "salmo": {
-      "riferimento": "Sal 32 (33)",
-      "ritornello": "Beato il popolo che il Signore si è scelto come erede.",
-      "versetti": "Esultate, giusti, nel Signore;\nai retti si addice la lode.\nLodate il Signore con la cetra,\ncon l'arpa a dieci corde a lui cantate.\n\nRetta è la parola del Signore\ne fedele ogni sua opera.\nEgli ama la giustizia e il diritto;\ndell'amore del Signore è piena la terra.\n\nBeata la nazione il cui Dio è il Signore,\nil popolo che egli ha scelto come sua eredità."
+      "riferimento": "Sal 144 (145)",
+      "ritornello": "Il Signore è vicino a chi lo invoca.",
+      "versetti": "Ti voglio benedire ogni giorno,\nlodare il tuo nome in eterno e per sempre.\nGrande è il Signore e degno di ogni lode;\nsenza fine è la sua grandezza.\n\nMisericordioso e pietoso è il Signore,\nlento all'ira e grande nell'amore.\nBuono è il Signore verso tutti,\nla sua tenerezza si espande su tutte le creature.\n\nGiusto è il Signore in tutte le sue vie\ne buono in tutte le sue opere.\nIl Signore è vicino a chiunque lo invoca,\na quanti lo invocano con sincerità."
+    },
+    "secondaLettura": {
+      "riferimento": "Fil 1,20c-24.27a",
+      "titolo": "Dalla lettera di san Paolo apostolo ai Filippesi",
+      "testo": "Fratelli, Cristo sarà glorificato nel mio corpo, sia che io viva, sia che io muoia. Per me infatti il vivere è Cristo e il morire un guadagno. Ma se il vivere nel corpo significa per me un lavoro fecondo, non so davvero che cosa scegliere. Sono stretto infatti fra queste due cose: da un lato il desiderio di essere sciolto dal corpo per essere con Cristo, il che sarebbe assai meglio, dall'altro il rimanere nel corpo è più necessario per voi.\n\nSoltanto, comportatevi in maniera degna del vangelo di Cristo."
     },
     "vangelo": {
-      "riferimento": "Lc 7,31-35",
-      "titolo": "Dal Vangelo secondo Luca",
-      "testo": "In quel tempo, il Signore disse: «A chi posso paragonare la gente di questa generazione? A chi è simile? È simile a bambini che, seduti in piazza, gridano gli uni agli altri così: \"Vi abbiamo suonato il flauto e non avete ballato, abbiamo cantato un lamento e non avete pianto!\".\n\nÈ venuto infatti Giovanni il Battista, che non mangia pane e non beve vino, e voi dite: \"È indemoniato\". È venuto il Figlio dell'uomo, che mangia e beve, e voi dite: \"Ecco un mangione e un beone, un amico di pubblicani e di peccatori!\".\n\nMa la Sapienza è stata riconosciuta giusta da tutti i suoi figli».",
+      "riferimento": "Mt 20,1-16",
+      "titolo": "Dal Vangelo secondo Matteo",
+      "testo": "In quel tempo, Gesù disse ai suoi discepoli questa parabola: «Il regno dei cieli è simile a un padrone di casa che uscì all'alba per prendere a giornata lavoratori per la sua vigna. Si accordò con loro per un denaro al giorno e li mandò nella sua vigna.\n\nUscito poi verso le nove del mattino, ne vide altri che stavano sulla piazza, disoccupati, e disse loro: \"Andate anche voi nella vigna; quello che è giusto ve lo darò\". Ed essi andarono. Uscì di nuovo verso mezzogiorno e verso le tre, e fece altrettanto. Uscito ancora verso le cinque, ne vide altri che se ne stavano lì e disse loro: \"Perché ve ne state qui tutto il giorno senza far niente?\". Gli risposero: \"Perché nessuno ci ha presi a giornata\". Ed egli disse loro: \"Andate anche voi nella vigna\".\n\nQuando fu sera, il padrone della vigna disse al suo fattore: \"Chiama i lavoratori e dà loro la paga, incominciando dagli ultimi fino ai primi\". Venuti quelli delle cinque del pomeriggio, ricevettero ciascuno un denaro. Quando arrivarono i primi, pensarono che avrebbero ricevuto di più. Ma anch'essi ricevettero ciascuno un denaro. Nel ricevere la paga, però, mormoravano contro il padrone dicendo: \"Questi ultimi hanno lavorato un'ora soltanto e li hai trattati come noi, che abbiamo sopportato il peso della giornata e il caldo\".\n\nMa il padrone, rispondendo a uno di loro, disse: \"Amico, io non ti faccio torto. Non hai forse concordato con me per un denaro? Prendi il tuo e vattene. Ma io voglio dare anche a quest'ultimo quanto a te: non posso fare delle mie cose quello che voglio? Oppure tu sei invidioso perché io sono buono?\". Così gli ultimi saranno primi e i primi, ultimi».",
       "audioUrl": null
     }
   },
   "omelia": {
-    "estratto": "«Tutti siamo o siamo stati figli e sappiamo come il rapporto genitori-figli cambia nel tempo»: da bambini c'è «totale abbandono, ammirazione, amore senza riserve», ma si rischia di diventare come la generazione a cui si rivolge Gesù, «eternamente scontenta» - chiusa di cuore e mente, capace solo di giudicare a priori. «I figli che riconoscono e manifestano la Sapienza sono proprio i meno sapienti, quelli che si sanno comportare come bambini».",
-    "autore": "Redazione diocesana",
-    "fonteNome": "Diocesi di Sora, Cassino, Aquino e Pontecorvo",
-    "fonteUrl": "https://www.diocesisora.it/diocesi/16-settembre-2026-commento-al-vangelo/",
-    "data": "16 settembre 2026"
+    "estratto": "Il padrone esce a chiamare anche alle cinque del pomeriggio, perché neppure i falliti, gli inadatti, gli irregolari restino fuori dalla sua vigna: «Perché ve ne state qui tutto il giorno senza far niente?». L'unica occupazione degna dell'uomo è esperire l'amore e portare frutto. Alla sera tutti ricevono la stessa paga, un denaro, perché l'amore non si misura sul merito ma sul bisogno di chi lo riceve.",
+    "autore": "don Paolo Scquizzato",
+    "fonteNome": "paoloscquizzato.it",
+    "fonteUrl": "https://www.paoloscquizzato.it/omelie/omelia-xxv-domenica-del-tempo-ordinario-anno-a",
+    "data": "20 settembre 2026"
   },
   "santo": {
-    "nome": "Santi Cornelio, papa, e Cipriano, vescovo, martiri",
-    "bio": "Cornelio fu eletto vescovo di Roma nel 251, in un momento difficile per la Chiesa, appena uscita dalla persecuzione dell'imperatore Decio. Si distinse per la scelta di riaccogliere con misericordia i cristiani che, per paura, avevano rinnegato la fede durante la persecuzione (i cosiddetti \"lapsi\"), opponendosi alla linea rigorista di Novaziano, che si era fatto eleggere antipapa proprio su questo dissenso. Cipriano, vescovo di Cartagine, retore colto convertitosi al cristianesimo attorno al 246, sostenne con forza Cornelio, difendendo l'unità della Chiesa contro lo scisma. I due non si incontrarono mai di persona, ma rimasero uniti da una fitta corrispondenza e da una comune visione pastorale. Cornelio morì in esilio a Civitavecchia nel 253, durante la persecuzione dell'imperatore Gallo; il suo corpo fu poi sepolto nelle catacombe di San Callisto a Roma. Cipriano fu decapitato a Cartagine nel 258. La Chiesa li ricorda insieme fin dall'antichità, come testimoni di una fede che non separa la verità dalla comunione.",
-    "scintilla": "Cornelio e Cipriano non si scelsero come alleati comodi, ma restarono uniti pur nella distanza: oggi possono ricordarci che la fedeltà a una comunità vale più della ragione che vorremmo sempre avere da soli."
+    "nome": "Santi Andrea Kim Taegon e Paolo Chong Hasang, martiri coreani",
+    "bio": "Andrea Kim Taegon (1821-1846) fu il primo sacerdote nato in Corea: ordinato a Shanghai nel 1845, tornò in patria per sostenere la giovanissima comunità cristiana, nata quasi per caso attorno a libri giunti dalla Cina, prima ancora dell'arrivo di un missionario. Arrestato mentre cercava di far entrare nel Paese nuovi sacerdoti, fu decapitato nel 1846, primo martire sacerdote coreano. Paolo Chong Hasang (1794 circa-1839), laico e catechista, figlio di martiri, attraversò più volte a piedi il confine con la Cina per chiedere vescovi e preti per la sua gente; fu ucciso nel 1839. Sono ricordati insieme ad altri 101 compagni, vittime delle persecuzioni che colpirono la giovane Chiesa coreana tra fine Settecento e Ottocento, canonizzati a Seul nel 1984 da Giovanni Paolo II. Quest'anno la loro memoria, che cade proprio il 20 settembre, è assorbita dalla liturgia domenicale.",
+    "scintilla": "Una Chiesa nata da laici che si sono messi in cerca prima ancora che qualcuno li raggiungesse: un promemoria che la fede può accendersi da un desiderio, non solo da chi la porta in dono."
   },
-  "oggiProvaA": "Oggi prova a sospendere il giudizio su una persona o una proposta che normalmente scarteresti subito: dalle un'attenzione in più prima di dire no.",
-  "domandaPerTe": "C'è qualcuno o qualcosa che hai già giudicato a priori, senza dargli davvero ascolto?",
+  "oggiProvaA": "Oggi prova a fare un favore a qualcuno senza calcolare se se lo merita o se ha 'lavorato' quanto te: un gesto gratuito, senza fare i conti.",
+  "domandaPerTe": "C'è una generosità ricevuta - da Dio o da qualcuno - che invece di farti gioire ti ha fatto sentire invidia?",
   "treMinuti": {
-    "versetto": "«Ma la Sapienza è stata riconosciuta giusta da tutti i suoi figli» (Lc 7,35)",
-    "pensiero": "Il cuore chiuso trova sempre una scusa per non lasciarsi toccare, qualunque sia il linguaggio con cui Dio si fa vicino.",
-    "santo": "Santi Cornelio e Cipriano: un papa e un vescovo che scelsero l'unità della Chiesa invece delle proprie ragioni, fino al martirio.",
-    "gesto": "Sospendi il giudizio su chi o cosa scarteresti subito, e dagli un'attenzione in più.",
-    "preghiera": "Signore, apri il mio cuore a chi non mi somiglia, perché non giudichi prima ancora di ascoltare."
+    "versetto": "«Non posso fare delle mie cose quello che voglio? Oppure tu sei invidioso perché io sono buono?» (Mt 20,15)",
+    "pensiero": "Dio non paga per merito ma per amore, ed è proprio questo a scandalizzare chi si sente 'primo'.",
+    "santo": "Santi Andrea Kim Taegon e Paolo Chong Hasang: una Chiesa coreana nata dal desiderio di semplici laici, prima ancora dei missionari.",
+    "gesto": "Fai un favore gratuito a qualcuno, senza contare se lo 'merita' quanto te.",
+    "preghiera": "Signore, insegnami a rallegrarmi del bene che dai agli altri, anche quando arriva senza il mio permesso."
   },
-  "preghieraFinale": "Signore Gesù, tu che bussi al nostro cuore con voci diverse e spesso lo trovi chiuso, insegnaci ad ascoltare senza pregiudizi. Come Cornelio e Cipriano seppero restare uniti nella prova, aiutaci a preferire la comunione alle nostre ragioni. Rendi il nostro amore paziente e vero, capace di sopportare, credere e sperare ogni cosa, oggi e sempre. Amen."
+  "preghieraFinale": "Signore Gesù, tu chiami nella tua vigna a ogni ora del giorno, e a ognuno doni con la stessa generosità che sorprende e a volte scandalizza. Liberaci dall'invidia di chi conta i meriti propri e altrui, e insegnaci a gioire del bene che ricevono i più lontani. Rendici disponibili a lasciarci ancora chiamare, oggi, qualunque sia l'ora della nostra vita. Amen."
 }
