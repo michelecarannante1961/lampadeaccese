@@ -1,53 +1,53 @@
 {
-  "data_iso": "2026-09-21",
+  "data_iso": "2026-09-22",
   "hero": {
-    "dataLeggibile": "Lunedì 21 settembre 2026",
-    "liturgia": "San Matteo, apostolo ed evangelista - Festa",
-    "coloreLiturgico": "rosso",
+    "dataLeggibile": "Martedì 22 settembre 2026",
+    "liturgia": "Martedì della XXV Settimana del Tempo Ordinario (Anno Pari) - Santa Emerita, martire",
+    "coloreLiturgico": "verde",
     "tempoLiturgico": "Tempo Ordinario"
   },
   "fraseLuce": {
-    "testo": "Misericordia io voglio e non sacrifici.",
-    "riferimento": "Mt 9,13"
+    "testo": "Mia madre e miei fratelli sono questi: coloro che ascoltano la parola di Dio e la mettono in pratica.",
+    "riferimento": "Lc 8,21"
   },
   "letture": {
     "primaLettura": {
-      "riferimento": "Ef 4,1-7.11-13",
-      "titolo": "Dalla lettera di san Paolo apostolo agli Efesìni",
-      "testo": "Fratelli, io, prigioniero a motivo del Signore, vi esorto: comportatevi in maniera degna della chiamata che avete ricevuto, con ogni umiltà, dolcezza e magnanimità, sopportandovi a vicenda nell'amore, avendo a cuore di conservare l'unità dello spirito per mezzo del vincolo della pace.\n\nUn solo corpo e un solo spirito, come una sola è la speranza alla quale siete stati chiamati, quella della vostra vocazione; un solo Signore, una sola fede, un solo battesimo. Un solo Dio e Padre di tutti, che è al di sopra di tutti, agisce per mezzo di tutti ed è presente in tutti.\n\nA ciascuno di noi, tuttavia, è stata data la grazia secondo la misura del dono di Cristo. Ed egli ha dato ad alcuni di essere apostoli, ad altri di essere profeti, ad altri ancora di essere evangelisti, ad altri di essere pastori e maestri, per preparare i fratelli a compiere il ministero, allo scopo di edificare il corpo di Cristo."
+      "riferimento": "Prv 21,1-6.10-13",
+      "titolo": "Dal libro dei Proverbi",
+      "testo": "Il cuore del re è un corso d'acqua in mano al Signore: lo dirige dovunque egli vuole. Agli occhi dell'uomo ogni sua via sembra diritta, ma chi scruta i cuori è il Signore. Praticare la giustizia e l'equità per il Signore vale più di un sacrificio.\n\nOcchi alteri e cuore superbo, lucerna dei malvagi è il peccato. I progetti di chi è diligente si risolvono in profitto, ma chi ha troppa fretta va verso l'indigenza. Accumulare tesori a forza di menzogne è futilità effimera di chi cerca la morte.\n\nL'anima del malvagio desidera fare il male, ai suoi occhi il prossimo non trova pietà. Quando lo spavaldo viene punito, l'inesperto diventa saggio; egli acquista scienza quando il saggio viene istruito.\n\nIl giusto osserva la casa del malvagio e precipita i malvagi nella sventura. Chi chiude l'orecchio al grido del povero invocherà a sua volta e non otterrà risposta."
     },
     "salmo": {
-      "riferimento": "Sal 18 (19)",
-      "ritornello": "Per tutta la terra si diffonde il loro annuncio.",
-      "versetti": "I cieli narrano la gloria di Dio,\nl'opera delle sue mani annuncia il firmamento.\nIl giorno al giorno ne affida il racconto\ne la notte alla notte ne trasmette notizia.\n\nSenza linguaggio, senza parole,\nsenza che si oda la loro voce,\nper tutta la terra si diffonde il loro annuncio\ne ai confini del mondo il loro messaggio."
+      "riferimento": "Sal 118 (119)",
+      "ritornello": "Guidami, Signore, sul sentiero dei tuoi comandi.",
+      "versetti": "Beato chi è integro nella sua via e cammina nella legge del Signore.\nFammi conoscere la via dei tuoi precetti e mediterò le tue meraviglie.\n\nHo scelto la via della fedeltà, mi sono proposto i tuoi giudizi.\nDammi intelligenza, perché io custodisca la tua legge e la osservi con tutto il cuore.\n\nGuidami sul sentiero dei tuoi comandi, perché in essi è la mia felicità.\nOsserverò continuamente la tua legge, in eterno, per sempre."
     },
     "vangelo": {
-      "riferimento": "Mt 9,9-13",
-      "titolo": "Dal Vangelo secondo Matteo",
-      "testo": "In quel tempo, mentre andava via, Gesù vide un uomo, chiamato Matteo, seduto al banco delle imposte, e gli disse: «Seguimi». Ed egli si alzò e lo seguì.\n\nMentre sedeva a tavola nella casa, sopraggiunsero molti pubblicani e peccatori e se ne stavano a tavola con Gesù e con i suoi discepoli. Vedendo ciò, i farisei dicevano ai suoi discepoli: «Come mai il vostro maestro mangia insieme ai pubblicani e ai peccatori?».\n\nUdito questo, disse: «Non sono i sani che hanno bisogno del medico, ma i malati. Andate a imparare che cosa vuol dire: \"Misericordia io voglio e non sacrifici\". Io non sono venuto infatti a chiamare i giusti, ma i peccatori».",
+      "riferimento": "Lc 8,19-21",
+      "titolo": "Dal Vangelo secondo Luca",
+      "testo": "In quel tempo, andarono da Gesù la madre e i suoi fratelli, ma non potevano avvicinarlo a causa della folla. Gli fecero sapere: «Tua madre e i tuoi fratelli stanno fuori e desiderano vederti».\n\nMa egli rispose loro: «Mia madre e miei fratelli sono questi: coloro che ascoltano la parola di Dio e la mettono in pratica».",
       "audioUrl": null
     }
   },
   "omelia": {
-    "estratto": "La conversione è innanzitutto un cambiamento di posizione esistenziale: Matteo è seduto, e quella è la postura della sua vita prima dell'incontro con Cristo. Gesù non aspetta che abbia già cambiato vita: lo incontra ancora seduto al banco delle imposte e gli offre una possibilità che lui, forse, non pensava più di avere.",
+    "estratto": "«È sempre grande il rischio di essere talmente entusiasti di Cristo da impedire agli altri di incontrarlo. Il vero discepolo ascolta la Parola, la mette in pratica e diventa ponte, mai ostacolo. Dovremmo sempre chiederci se il nostro modo di stargli accanto favorisce l'incontro degli altri con Lui, o lo impedisce.»",
     "autore": "don Luigi Maria Epicoco",
-    "fonteNome": "Famiglia Cristiana - La Parola del giorno",
-    "fonteUrl": "https://www.famigliacristiana.it/riflessioni/epicoco-parola-del-giorno/la-conversione-e-cambiamento-21-settembre-uksv4fud",
-    "data": "21 settembre 2026"
+    "fonteNome": "La Luce di Maria",
+    "fonteUrl": "https://www.lalucedimaria.it/vangelo-22-settembre-2026-commento-don-epicoco/",
+    "data": "22 settembre 2026"
   },
   "santo": {
-    "nome": "San Matteo, apostolo ed evangelista",
-    "bio": "Matteo, chiamato anche Levi, era un pubblicano: esercitava l'esazione delle tasse per conto dell'amministrazione romana a Cafarnao, un mestiere che gli attirava il disprezzo dei suoi connazionali. Gesù lo trovò seduto al banco delle imposte e gli disse semplicemente «Seguimi»: Matteo si alzò e lo seguì, lasciando alle spalle una posizione sociale definita per una vita itinerante. La tradizione della Chiesa gli attribuisce il primo dei quattro Vangeli canonici, scritto per una comunità di origine giudaica e attento a mostrare come Gesù compia le promesse delle Scritture. Sulla sua attività dopo la Pentecoste le fonti antiche non concordano: alcune lo collocano in Etiopia, altre nell'area siro-persiana. Il Martirologio Romano lo ricorda come apostolo, evangelista e martire. Le sue reliquie sono custodite a Salerno, di cui è patrono.",
-    "scintilla": "Un uomo giudicato dal suo lavoro viene chiamato per nome e cambia vita in un istante: ricorda che nessuna casella in cui la società ci ha messo è l'ultima parola su chi possiamo diventare."
+    "nome": "Santa Emerita, martire",
+    "bio": "Santa Emerita è ricordata il 22 settembre nel Martirologio Romano come vergine e martire romana, sepolta nell'antico cimitero di Commodilla, lungo la via Ostiense, uno dei più antichi luoghi di sepoltura cristiana di Roma, insieme ad altre martiri ivi venerate come santa Digna. La tradizione la colloca nei primi secoli della Chiesa, in un'epoca segnata dalle persecuzioni contro i cristiani. Secoli più tardi papa san Leone IV ne fece traslare le reliquie nella chiesa di San Marcello al Corso, nel cuore di Roma, per custodirle e restituirle alla venerazione dei fedeli. Della sua vita non restano cronache dettagliate: nessun racconto agiografico esteso è giunto fino a noi, solo la memoria di un nome e di una tomba. È una delle tante sante 'minori' del calendario romano, figure di cui la storia ha custodito più il coraggio della fede che i dettagli della biografia.",
+    "scintilla": "Emerita ci ricorda che la santità più vera spesso non fa notizia: è la fedeltà silenziosa di chi ha creduto fino in fondo, senza bisogno che il mondo ne conoscesse il nome."
   },
-  "oggiProvaA": "Oggi prova a sederti a tavola, anche solo virtualmente con una telefonata o un messaggio, con qualcuno che di solito eviti o giudichi: senza doverlo cambiare, solo per stargli vicino.",
-  "domandaPerTe": "C'è un giudizio che porti su te stesso o su qualcuno che ti impedisce di credere che un cambiamento sia ancora possibile?",
+  "oggiProvaA": "Oggi prova a fare un solo gesto di ascolto vero: metti via il telefono per cinque minuti mentre qualcuno ti parla, e ascoltalo davvero, senza pensare già alla risposta.",
+  "domandaPerTe": "C'è qualcuno, oggi, che ha bisogno che tu lo ascolti più che parlargli?",
   "treMinuti": {
-    "versetto": "«Misericordia io voglio e non sacrifici» (Mt 9,13)",
-    "pensiero": "Dio non guarda da dove veniamo, ma dove può ancora portarci.",
-    "santo": "San Matteo: da esattore delle tasse ad apostolo ed evangelista, per una sola parola di Gesù.",
-    "gesto": "Siediti a tavola con chi di solito eviti, anche solo per un caffè.",
-    "preghiera": "Signore, guarda anche me come hai guardato Matteo: senza fermarti a ciò che sono stato, ma a ciò che posso ancora diventare."
+    "versetto": "«Mia madre e miei fratelli sono questi: coloro che ascoltano la parola di Dio e la mettono in pratica» (Lc 8,21)",
+    "pensiero": "La vera appartenenza a Gesù non è di sangue, ma di ascolto vissuto.",
+    "santo": "Santa Emerita, martire romana: una fede fedele fino in fondo, anche senza un nome che la storia ricordasse.",
+    "gesto": "Metti via il telefono cinque minuti e ascolta davvero chi hai vicino.",
+    "preghiera": "Signore, insegnami ad ascoltare la tua Parola non con le orecchie soltanto, ma con la vita che cambia."
   },
-  "preghieraFinale": "Signore Gesù, tu sei passato accanto a Matteo e lo hai chiamato mentre era ancora seduto al suo banco, chiuso nelle sue sicurezze. Passa anche accanto a noi oggi, nelle occupazioni che ci sembrano irrinunciabili, e ripeti a ciascuno il tuo «Seguimi». Insegnaci a preferire la misericordia al sacrificio, la tavola condivisa al giudizio, il cammino alla rassegnazione. Rendici capaci di alzarci e di seguirti senza voltarci indietro. Amen."
+  "preghieraFinale": "Signore Gesù, tu chiami famiglia chi ascolta la tua Parola e la vive ogni giorno. Aiutami a non fermarmi alle parole belle, ma a tradurle in gesti semplici e veri, senza cercare applausi. Rendimi ascolto per chi mi sta vicino, ponte e non ostacolo per chi cerca te. Dammi la fedeltà silenziosa dei tuoi santi nascosti, forte anche senza essere vista. Amen."
 }
