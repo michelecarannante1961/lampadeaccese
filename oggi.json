@@ -1,53 +1,53 @@
 {
-  "data_iso": "2026-09-22",
+  "data_iso": "2026-09-23",
   "hero": {
-    "dataLeggibile": "Martedì 22 settembre 2026",
-    "liturgia": "Martedì della XXV Settimana del Tempo Ordinario (Anno Pari) - Santa Emerita, martire",
-    "coloreLiturgico": "verde",
+    "dataLeggibile": "Mercoledì 23 settembre 2026",
+    "liturgia": "Mercoledì della XXV Settimana del Tempo Ordinario - Memoria di San Pio da Pietrelcina, sacerdote",
+    "coloreLiturgico": "bianco",
     "tempoLiturgico": "Tempo Ordinario"
   },
   "fraseLuce": {
-    "testo": "Mia madre e miei fratelli sono questi: coloro che ascoltano la parola di Dio e la mettono in pratica.",
-    "riferimento": "Lc 8,21"
+    "testo": "Non prendete nulla per il viaggio, né bastone, né sacca, né pane, né denaro, e non portatevi due tuniche.",
+    "riferimento": "Lc 9,3"
   },
   "letture": {
     "primaLettura": {
-      "riferimento": "Prv 21,1-6.10-13",
+      "riferimento": "Prv 30,5-9",
       "titolo": "Dal libro dei Proverbi",
-      "testo": "Il cuore del re è un corso d'acqua in mano al Signore: lo dirige dovunque egli vuole. Agli occhi dell'uomo ogni sua via sembra diritta, ma chi scruta i cuori è il Signore. Praticare la giustizia e l'equità per il Signore vale più di un sacrificio.\n\nOcchi alteri e cuore superbo, lucerna dei malvagi è il peccato. I progetti di chi è diligente si risolvono in profitto, ma chi ha troppa fretta va verso l'indigenza. Accumulare tesori a forza di menzogne è futilità effimera di chi cerca la morte.\n\nL'anima del malvagio desidera fare il male, ai suoi occhi il prossimo non trova pietà. Quando lo spavaldo viene punito, l'inesperto diventa saggio; egli acquista scienza quando il saggio viene istruito.\n\nIl giusto osserva la casa del malvagio e precipita i malvagi nella sventura. Chi chiude l'orecchio al grido del povero invocherà a sua volta e non otterrà risposta."
+      "testo": "Ogni parola di Dio è appurata; egli è uno scudo per chi ricorre a lui. Non aggiungere nulla alle sue parole, perché non ti riprenda e tu sia trovato bugiardo.\n\nIo ti domando due cose, non negarmele prima che io muoia: tieni lontano da me falsità e menzogna, non darmi né povertà né ricchezza; ma fammi avere il cibo necessario, perché, una volta sazio, io non ti rinneghi e dica: «Chi è il Signore?», oppure, ridotto all'indigenza, non rubi e profani il nome del mio Dio."
     },
     "salmo": {
       "riferimento": "Sal 118 (119)",
-      "ritornello": "Guidami, Signore, sul sentiero dei tuoi comandi.",
-      "versetti": "Beato chi è integro nella sua via e cammina nella legge del Signore.\nFammi conoscere la via dei tuoi precetti e mediterò le tue meraviglie.\n\nHo scelto la via della fedeltà, mi sono proposto i tuoi giudizi.\nDammi intelligenza, perché io custodisca la tua legge e la osservi con tutto il cuore.\n\nGuidami sul sentiero dei tuoi comandi, perché in essi è la mia felicità.\nOsserverò continuamente la tua legge, in eterno, per sempre."
+      "ritornello": "Lampada per i miei passi, Signore, è la tua parola.",
+      "versetti": "Tieni lontana da me la via della menzogna, donami la grazia della tua legge. Bene per me è la legge della tua bocca, più di mille pezzi d'oro e d'argento.\n\nPer sempre, o Signore, la tua parola è stabile nei cieli. Tengo lontani i miei piedi da ogni cattivo sentiero, per osservare la tua parola.\n\nI tuoi precetti mi danno intelligenza, perciò odio ogni falso sentiero. Odio la menzogna e la detesto, amo la tua legge."
     },
     "vangelo": {
-      "riferimento": "Lc 8,19-21",
+      "riferimento": "Lc 9,1-6",
       "titolo": "Dal Vangelo secondo Luca",
-      "testo": "In quel tempo, andarono da Gesù la madre e i suoi fratelli, ma non potevano avvicinarlo a causa della folla. Gli fecero sapere: «Tua madre e i tuoi fratelli stanno fuori e desiderano vederti».\n\nMa egli rispose loro: «Mia madre e miei fratelli sono questi: coloro che ascoltano la parola di Dio e la mettono in pratica».",
+      "testo": "In quel tempo, Gesù convocò i Dodici e diede loro forza e potere su tutti i demòni e di guarire le malattie.\n\nE li mandò ad annunciare il regno di Dio e a guarire gli infermi. Disse loro: «Non prendete nulla per il viaggio, né bastone, né sacca, né pane, né denaro, e non portatevi due tuniche. In qualunque casa entriate, rimanete là, e di là poi ripartite. Quanto a coloro che non vi accolgono, uscite dalla loro città e scuotete la polvere dai vostri piedi come testimonianza contro di loro».\n\nAllora essi uscirono e giravano di villaggio in villaggio, ovunque annunciando la buona notizia e operando guarigioni.",
       "audioUrl": null
     }
   },
   "omelia": {
-    "estratto": "«È sempre grande il rischio di essere talmente entusiasti di Cristo da impedire agli altri di incontrarlo. Il vero discepolo ascolta la Parola, la mette in pratica e diventa ponte, mai ostacolo. Dovremmo sempre chiederci se il nostro modo di stargli accanto favorisce l'incontro degli altri con Lui, o lo impedisce.»",
+    "estratto": "«È particolarmente suggestivo leggere questo versetto del Vangelo nel giorno in cui facciamo memoria di san Pio da Pietrelcina [...] è bello ricordare qual è il luogo dove questo medico delle anime ha operato i suoi più grandi miracoli: nel confessionale. Potremmo dire che il confessionale è stato la sua particolare sala operatoria, perché è proprio lì che tante persone hanno potuto permettere alla grazia di raggiungere le ferite più profonde della loro esistenza.»",
     "autore": "don Luigi Maria Epicoco",
-    "fonteNome": "La Luce di Maria",
-    "fonteUrl": "https://www.lalucedimaria.it/vangelo-22-settembre-2026-commento-don-epicoco/",
-    "data": "22 settembre 2026"
+    "fonteNome": "Famiglia Cristiana",
+    "fonteUrl": "https://www.famigliacristiana.it/riflessioni/epicoco-parola-del-giorno/la-confessione-e-un-incontro-con-la-misericordia-di-cristo-23-settembre-uksv4fud",
+    "data": "23 settembre 2026"
   },
   "santo": {
-    "nome": "Santa Emerita, martire",
-    "bio": "Santa Emerita è ricordata il 22 settembre nel Martirologio Romano come vergine e martire romana, sepolta nell'antico cimitero di Commodilla, lungo la via Ostiense, uno dei più antichi luoghi di sepoltura cristiana di Roma, insieme ad altre martiri ivi venerate come santa Digna. La tradizione la colloca nei primi secoli della Chiesa, in un'epoca segnata dalle persecuzioni contro i cristiani. Secoli più tardi papa san Leone IV ne fece traslare le reliquie nella chiesa di San Marcello al Corso, nel cuore di Roma, per custodirle e restituirle alla venerazione dei fedeli. Della sua vita non restano cronache dettagliate: nessun racconto agiografico esteso è giunto fino a noi, solo la memoria di un nome e di una tomba. È una delle tante sante 'minori' del calendario romano, figure di cui la storia ha custodito più il coraggio della fede che i dettagli della biografia.",
-    "scintilla": "Emerita ci ricorda che la santità più vera spesso non fa notizia: è la fedeltà silenziosa di chi ha creduto fino in fondo, senza bisogno che il mondo ne conoscesse il nome."
+    "nome": "San Pio da Pietrelcina (Padre Pio), sacerdote",
+    "bio": "Francesco Forgione nasce a Pietrelcina (Benevento) il 25 maggio 1887. Entra tra i frati cappuccini nel 1903, prendendo il nome di fra Pio, ed è ordinato sacerdote nel 1910. Dal 1916 vive stabilmente nel convento di Santa Maria delle Grazie a San Giovanni Rotondo, sul Gargano. Il 20 settembre 1918 riceve le stimmate della Passione di Cristo, che porterà visibili, dolorose e sanguinanti, per cinquant'anni. La sua vita è segnata dalla preghiera, dall'Eucaristia e da lunghissime ore trascorse nel confessionale, dove accoglie migliaia di fedeli in cerca di consolazione e di riconciliazione. Promuove i Gruppi di Preghiera e fa costruire la Casa Sollievo della Sofferenza, l'ospedale inaugurato nel 1956 e pensato come luogo di cura e fraternità cristiana. Muore a San Giovanni Rotondo il 23 settembre 1968, pronunciando le parole «Gesù, Maria». Beatificato nel 1999, è canonizzato da Giovanni Paolo II il 16 giugno 2002.",
+    "scintilla": "Anche oggi, in un tempo che teme la fragilità, Padre Pio ricorda che le ferite non vanno nascoste ma portate a qualcuno capace di ascoltarle senza giudicare."
   },
-  "oggiProvaA": "Oggi prova a fare un solo gesto di ascolto vero: metti via il telefono per cinque minuti mentre qualcuno ti parla, e ascoltalo davvero, senza pensare già alla risposta.",
-  "domandaPerTe": "C'è qualcuno, oggi, che ha bisogno che tu lo ascolti più che parlargli?",
+  "oggiProvaA": "Oggi scegli di fare a meno, anche solo per un'ora, di qualcosa che porti sempre con te per abitudine - il telefono a portata di mano, una scorta di certezze - e osserva come cambia la giornata.",
+  "domandaPerTe": "Che cosa porti con te che, in fondo, potresti lasciare a casa?",
   "treMinuti": {
-    "versetto": "«Mia madre e miei fratelli sono questi: coloro che ascoltano la parola di Dio e la mettono in pratica» (Lc 8,21)",
-    "pensiero": "La vera appartenenza a Gesù non è di sangue, ma di ascolto vissuto.",
-    "santo": "Santa Emerita, martire romana: una fede fedele fino in fondo, anche senza un nome che la storia ricordasse.",
-    "gesto": "Metti via il telefono cinque minuti e ascolta davvero chi hai vicino.",
-    "preghiera": "Signore, insegnami ad ascoltare la tua Parola non con le orecchie soltanto, ma con la vita che cambia."
+    "versetto": "«Non prendete nulla per il viaggio» (Lc 9,3)",
+    "pensiero": "L'essenziale non ha bisogno di troppi bagagli.",
+    "santo": "San Pio da Pietrelcina, che nel confessionale ha speso la vita ad accogliere le ferite degli altri.",
+    "gesto": "Lascia a casa una sicurezza di troppo, oggi, e cammina più leggero.",
+    "preghiera": "Signore, insegnami a fidarmi di te più che delle mie provviste. Rendimi libero per annunciare, non ingombrato dal possedere."
   },
-  "preghieraFinale": "Signore Gesù, tu chiami famiglia chi ascolta la tua Parola e la vive ogni giorno. Aiutami a non fermarmi alle parole belle, ma a tradurle in gesti semplici e veri, senza cercare applausi. Rendimi ascolto per chi mi sta vicino, ponte e non ostacolo per chi cerca te. Dammi la fedeltà silenziosa dei tuoi santi nascosti, forte anche senza essere vista. Amen."
+  "preghieraFinale": "Signore Gesù, tu mandi i tuoi discepoli senza bastone né sacca, forti solo della tua parola. Liberaci dal peso di ciò che ci appesantisce e dalla paura di restare senza garanzie. Insegnaci, sull'esempio di san Pio, ad accogliere chi è ferito e a fidarci della tua provvidenza in ogni passo del cammino. Amen."
 }
