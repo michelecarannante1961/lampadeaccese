@@ -1,58 +1,53 @@
 {
-  "data_iso": "2026-09-27",
+  "data_iso": "2026-09-28",
   "hero": {
-    "dataLeggibile": "Domenica 27 settembre 2026",
-    "liturgia": "XXVI Domenica del Tempo Ordinario - Anno A",
+    "dataLeggibile": "Lunedì 28 settembre 2026",
+    "liturgia": "XXVI Settimana del Tempo Ordinario · Memoria facoltativa dei Santi Lorenzo Ruiz e compagni, martiri",
     "coloreLiturgico": "verde",
     "tempoLiturgico": "Tempo Ordinario"
   },
   "fraseLuce": {
-    "testo": "In verità io vi dico: i pubblicani e le prostitute vi passano avanti nel regno di Dio.",
-    "riferimento": "Mt 21,31"
+    "testo": "Chi non è contro di voi, è per voi.",
+    "riferimento": "Lc 9,50"
   },
   "letture": {
     "primaLettura": {
-      "riferimento": "Ez 18,25-28",
-      "titolo": "Dal libro del profeta Ezechiele",
-      "testo": "Così dice il Signore: «Voi dite: \"Non è retto il modo di agire del Signore\". Ascoltate dunque, casa d'Israele: Non è retto il mio modo di agire o piuttosto non è retto il vostro modo di agire?\n\nSe il giusto si allontana dalla giustizia e commette il male, a causa di questo egli muore; muore per il male che ha commesso. E se il malvagio si converte dalla malvagità che ha commesso e compie ciò che è retto e giusto, egli fa vivere se stesso. Ha riflettuto e si è allontanato da tutte le colpe commesse: egli certo vivrà e non morirà»."
+      "riferimento": "Gb 1,6-22",
+      "titolo": "Dal libro di Giobbe",
+      "testo": "Un giorno, i figli di Dio andarono a presentarsi al Signore, e anche Satana andò in mezzo a loro. Il Signore disse a Satana: «Da dove vieni?». Satana rispose al Signore: «Dalla terra, che ho percorsa in lungo e in largo». Il Signore disse a Satana: «Hai posto attenzione al mio servo Giobbe? Nessuno è come lui sulla terra: uomo integro e retto, teme Dio ed è lontano dal male». Satana rispose al Signore: «Forse che Giobbe teme Dio per nulla? Non sei forse tu che hai messo una siepe intorno a lui, alla sua casa e a tutto quello che possiede? Hai benedetto il lavoro delle sue mani e il suo bestiame si espande sulla terra. Ma stendi un poco la mano e tocca quanto egli possiede, e vedrai come ti benedirà in faccia!». Il Signore disse a Satana: «Ecco, quanto egli possiede è in tuo potere, ma non stendere la mano su di lui». Satana si allontanò dalla presenza del Signore.\n\nUn giorno, mentre i figli e le figlie di Giobbe mangiavano e bevevano in casa del fratello maggiore, un messaggero venne ad annunciargli che razziatori avevano portato via il bestiame e ucciso i servi, un altro che il fuoco era caduto dal cielo bruciando le greggi, un altro ancora che altri razziatori avevano portato via i cammelli; infine un ultimo messaggero riferì che un vento impetuoso, giunto dal deserto, aveva abbattuto la casa dove si trovavano i suoi figli, e tutti erano morti.\n\nAllora Giobbe si alzò, si stracciò le vesti, si rase il capo, cadde a terra e si prostrò dicendo: «Nudo uscii dal grembo di mia madre, e nudo vi ritornerò. Il Signore ha dato, il Signore ha tolto, sia benedetto il nome del Signore!». In tutto questo, Giobbe non peccò e non attribuì a Dio nulla di ingiusto."
     },
     "salmo": {
-      "riferimento": "Sal 24 (25)",
-      "ritornello": "Ricòrdati, Signore, della tua misericordia.",
-      "versetti": "Fammi conoscere, Signore, le tue vie,\ninsegnami i tuoi sentieri.\nGuidami nella tua fedeltà e istruiscimi,\nperché sei tu il Dio della mia salvezza.\n\nRicòrdati, Signore, della tua misericordia\ne del tuo amore, che è da sempre.\nRicòrdati di me nella tua misericordia,\nper la tua bontà, Signore.\n\nBuono e retto è il Signore,\nindica ai peccatori la via giusta;\nguida i poveri secondo giustizia,\ninsegna ai poveri la sua via."
-    },
-    "secondaLettura": {
-      "riferimento": "Fil 2,1-11",
-      "titolo": "Dalla lettera di san Paolo apostolo ai Filippesi",
-      "testo": "Fratelli, se c'è qualche consolazione in Cristo, se c'è qualche conforto, frutto della carità, se c'è qualche comunione di spirito, se ci sono sentimenti di amore e di compassione, rendete piena la mia gioia con un medesimo sentire e con la stessa carità, rimanendo unanimi e concordi. Non fate nulla per rivalità o vanagloria, ma ciascuno di voi, con tutta umiltà, consideri gli altri superiori a se stesso. Ciascuno non cerchi l'interesse proprio, ma anche quello degli altri.\n\nAbbiate in voi gli stessi sentimenti di Cristo Gesù: egli, pur essendo nella condizione di Dio, non ritenne un privilegio l'essere come Dio, ma svuotò se stesso assumendo una condizione di servo, diventando simile agli uomini. Dall'aspetto riconosciuto come uomo, umiliò se stesso facendosi obbediente fino alla morte e a una morte di croce.\n\nPer questo Dio lo esaltò e gli donò il nome che è al di sopra di ogni altro nome, perché nel nome di Gesù ogni ginocchio si pieghi nei cieli, sulla terra e sotto terra, e ogni lingua proclami: «Gesù Cristo è Signore!», a gloria di Dio Padre."
+      "riferimento": "Sal 16 (17)",
+      "ritornello": "Tendi a me l'orecchio, Signore, ascolta le mie parole.",
+      "versetti": "Accogli, Signore, la causa del giusto,\nsii attento al mio grido.\nPorgi l'orecchio alla mia preghiera:\nsulle mie labbra non c'è inganno.\n\nIo t'invoco, mio Dio: dammi risposta;\ntendi a me l'orecchio, ascolta le mie parole,\nmostrami i prodigi del tuo amore:\ntu che salvi dai nemici chi si affida alla tua destra.\n\nCustodiscimi come pupilla degli occhi,\nproteggimi all'ombra delle tue ali,\ndi fronte agli empi che mi opprimono,\nai nemici che mi accerchiano."
     },
     "vangelo": {
-      "riferimento": "Mt 21,28-32",
-      "titolo": "Dal Vangelo secondo Matteo",
-      "testo": "In quel tempo, Gesù disse ai capi dei sacerdoti e agli anziani del popolo: «Che ve ne pare? Un uomo aveva due figli. Si rivolse al primo e disse: \"Figlio, oggi va' a lavorare nella vigna\". Ed egli rispose: \"Non ne ho voglia\". Ma poi si pentì e vi andò. Si rivolse al secondo e disse lo stesso. Ed egli rispose: \"Sì, signore\". Ma non vi andò.\n\nChi dei due ha compiuto la volontà del padre?». Risposero: «Il primo». E Gesù disse loro: «In verità io vi dico: i pubblicani e le prostitute vi passano avanti nel regno di Dio. Giovanni infatti venne a voi sulla via della giustizia, e non gli avete creduto; i pubblicani e le prostitute invece gli hanno creduto. Voi, al contrario, avete visto queste cose, ma poi non vi siete nemmeno pentiti così da credergli».",
+      "riferimento": "Lc 9,46-50",
+      "titolo": "Dal Vangelo secondo Luca",
+      "testo": "In quel tempo, sorse tra i discepoli una discussione: chi di loro fosse il più grande. Gesù, conoscendo il pensiero del loro cuore, prese un bambino, se lo mise vicino e disse loro: «Chi accoglie questo bambino nel mio nome, accoglie me; e chi accoglie me, accoglie colui che mi ha mandato. Chi infatti è il più piccolo fra tutti voi, questi è grande».\n\nGiovanni prese la parola dicendo: «Maestro, abbiamo visto uno che scacciava demòni nel tuo nome e glielo abbiamo impedito, perché non ti segue insieme con noi». Ma Gesù gli rispose: «Non lo impedite, perché chi non è contro di voi, è per voi».",
       "audioUrl": null
     }
   },
   "omelia": {
-    "estratto": "C'è chi, nella comunità, assomiglia a un terzo figlio: non fa proclami, non si mette in mostra, ma senza dire nulla va comunque a lavorare nella vigna. Il figlio ideale, quello che dice sì e lo fa fino in fondo, in realtà non siamo noi: è Cristo, la cui vita intera è stata un sì.",
-    "autore": "P. Manuel João Pereira Correia, missionario comboniano",
-    "fonteNome": "Comboni2000.org",
-    "fonteUrl": "https://comboni2000.org/2026/09/25/xxvi-domenica-del-tempo-ordinario-a-cercasi-un-terzo-figlio/",
-    "data": "25 settembre 2026"
+    "estratto": "«Con quella pazienza che nasce dall'amore» Gesù torna a spiegare ai suoi che la vera grandezza non sta nel primeggiare, ma nell'accogliere chi è piccolo e indifeso. Si può andare a Messa ogni giorno e restare, in fondo, sempre gli stessi: il Vangelo chiede di lasciarsi davvero cambiare lo sguardo sulla vita.",
+    "autore": "Silvio Longobardi",
+    "fonteNome": "Punto Famiglia",
+    "fonteUrl": "https://www.puntofamiglia.net/puntofamiglia/2026/09/28/la-pazienza-dellamore-2/",
+    "data": "28 settembre 2026"
   },
   "santo": {
-    "nome": "San Vincenzo de' Paoli",
-    "bio": "Vincenzo de' Paoli nacque il 24 aprile 1581 a Pouy, un borgo contadino vicino a Dax, in Guascogna, da una famiglia di umili agricoltori. Fu ordinato sacerdote nel 1600, a soli diciannove anni. Dopo un percorso di formazione e alcune vicende personali complesse, si dedicò con crescente radicalità al servizio dei poveri, dei malati e dei carcerati, convinto che nel volto di chi soffre si incontri il volto di Cristo. Nel 1625 fondò la Congregazione della Missione, impegnata nell'evangelizzazione delle campagne e nella formazione del clero; nel 1633, insieme a santa Luisa de Marillac, diede vita alle Figlie della Carità, prima congregazione femminile a operare fuori dai monasteri, tra ospedali, orfanotrofi e strade. Morì a Parigi il 27 settembre 1660. Fu canonizzato nel 1737 da papa Clemente XII ed è venerato come patrono universale delle opere di carità.",
-    "scintilla": "Vincenzo ha trasformato la compassione in gesti organizzati e concreti: ancora oggi, davanti a un bisogno reale, la domanda giusta non è chi dovrebbe occuparsene, ma cosa posso fare io, adesso, con quello che ho."
+    "nome": "Santi Lorenzo Ruiz e Compagni, martiri",
+    "bio": "Lorenzo Ruiz nacque a Manila, nelle Filippine, intorno al 1600, figlio di padre cinese e madre filippina, entrambi cattolici. Sposato e padre di tre figli, prestava servizio come scrivano presso i missionari domenicani. Nel 1636, per sottrarsi a un'accusa ingiusta, si imbarcò insieme ad alcuni religiosi diretti in Giappone, dove in quegli anni infuriava una durissima persecuzione contro i cristiani. Giunto in territorio giapponese, il gruppo fu arrestato e condotto a Nagasaki. Sottoposto a torture per costringerlo ad abiurare, Lorenzo rispose di essere cristiano e di essere pronto a morire mille volte per Dio, se necessario. Fu giustiziato il 29 settembre 1637 insieme ad altri quindici martiri - giapponesi, spagnoli, un francese e un italiano - legati alla missione domenicana in Estremo Oriente. Beatificato da Giovanni Paolo II nel 1981 e canonizzato nel 1987, è il primo santo filippino della storia.",
+    "scintilla": "Lorenzo non era un religioso né un eroe in cerca di gloria: era un padre di famiglia messo alle strette dalla vita. Anche una fede vissuta tra mille impegni quotidiani, quando conta davvero, non si negozia."
   },
-  "oggiProvaA": "Oggi prova a fare, senza dirlo a nessuno, un piccolo gesto concreto di aiuto verso una persona vicina a te: una telefonata, una mano pratica, un po' di tempo regalato.",
-  "domandaPerTe": "C'è qualcosa che hai detto di voler fare per qualcuno, ma che non hai ancora fatto davvero?",
+  "oggiProvaA": "Oggi prova a dare più spazio, in una conversazione, a chi di solito parla meno o conta meno agli occhi degli altri: lascialo finire, ascoltalo davvero.",
+  "domandaPerTe": "C'è qualcuno che tieni ai margini del tuo gruppo o della tua vita solo perché non fa parte del giro giusto?",
   "treMinuti": {
-    "versetto": "«I pubblicani e le prostitute vi passano avanti nel regno di Dio» (Mt 21,31)",
-    "pensiero": "Non basta dire sì: conta chi, alla fine, si è davvero messo in cammino.",
-    "santo": "San Vincenzo de' Paoli, sacerdote francese che ha fatto della carità concreta verso i poveri lo scopo di tutta la sua vita.",
-    "gesto": "Fai oggi, senza proclamarlo, un piccolo gesto concreto di aiuto verso qualcuno.",
-    "preghiera": "Signore, dammi la forza di trasformare le mie buone intenzioni in gesti reali. Amen."
+    "versetto": "«Chi non è contro di voi, è per voi» (Lc 9,50)",
+    "pensiero": "La vera grandezza si misura nella capacità di accogliere, non di escludere.",
+    "santo": "Santi Lorenzo Ruiz e compagni: un padre di famiglia filippino che non ha rinnegato la fede fino alla morte.",
+    "gesto": "Ascolta con attenzione, oggi, chi di solito interrompi o metti da parte.",
+    "preghiera": "Signore, allarga il mio cuore: insegnami a riconoscere il bene anche dove non me lo aspetto, e a non usare il tuo nome per escludere chi cammina accanto a me in modo diverso."
   },
-  "preghieraFinale": "Padre buono, tu non guardi le parole che pronunciamo ma i passi che compiamo. Perdona le volte in cui abbiamo detto sì e non siamo andati, e le volte in cui, per paura, abbiamo detto no senza poi pentirci. Donaci un cuore capace di ripensarci, di cambiare strada quando serve, e di lavorare davvero nella tua vigna con mani sincere. Amen."
+  "preghieraFinale": "Signore Gesù, tu che hai preso un bambino e lo hai messo al centro, insegnaci la grandezza degli ultimi. Liberaci dalla tentazione di misurarci con gli altri e di temere chi ti segue con parole diverse dalle nostre. Rendici capaci di riconoscere il bene ovunque si trovi, e donaci la fede coraggiosa dei martiri, pronti a tutto pur di non tradirti. Amen."
 }
