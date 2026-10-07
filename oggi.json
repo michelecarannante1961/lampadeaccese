@@ -1,53 +1,53 @@
 {
-  "data_iso": "2026-10-06",
+  "data_iso": "2026-10-07",
   "hero": {
-    "dataLeggibile": "Martedì 6 ottobre 2026",
-    "liturgia": "XXVII Settimana del Tempo Ordinario (anno pari) - Memoria facoltativa di San Bruno, sacerdote",
-    "coloreLiturgico": "verde",
+    "dataLeggibile": "Mercoledì 7 ottobre 2026",
+    "liturgia": "XXVII Settimana del Tempo Ordinario (anno pari) - Memoria della Beata Vergine Maria del Rosario",
+    "coloreLiturgico": "bianco",
     "tempoLiturgico": "Tempo Ordinario"
   },
   "fraseLuce": {
-    "testo": "Maria ha scelto la parte migliore, che non le sarà tolta.",
-    "riferimento": "Lc 10,42"
+    "testo": "Padre, sia santificato il tuo nome, venga il tuo regno.",
+    "riferimento": "Lc 11,2"
   },
   "letture": {
     "primaLettura": {
-      "riferimento": "Gal 1,13-24",
+      "riferimento": "Gal 2,1-2.7-14",
       "titolo": "Dalla lettera di san Paolo apostolo ai Gàlati",
-      "testo": "Fratelli, voi avete certamente sentito parlare della mia condotta di una volta nel giudaismo, come io perseguitassi fieramente la Chiesa di Dio e la devastassi, superando nel giudaismo la maggior parte dei miei coetanei e connazionali, accanito com'ero nel sostenere le tradizioni dei padri.\n\nMa quando colui che mi scelse fin dal seno di mia madre e mi chiamò con la sua grazia si compiacque di rivelare in me suo Figlio perché lo annunciassi in mezzo alle genti, io non mi consigliai con nessuno, non salii a Gerusalemme da coloro che erano apostoli prima di me, ma subito mi ritirai in Arabia e poi tornai di nuovo a Damasco.\n\nDopo tre anni salii a Gerusalemme per andare a trovare Cefa e rimasi presso di lui quindici giorni; non vidi però nessun altro degli apostoli, se non Giacomo, il fratello del Signore. In tutto questo non mento davanti a Dio.\n\nPoi andai in Siria e Cilicia e non ero conosciuto di persona dalle Chiese della Giudea che sono in Cristo; esse sentivano soltanto dire: «Colui che prima ci perseguitava, ora va annunciando la fede che un tempo voleva distruggere», e glorificavano Dio a causa mia."
+      "testo": "Fratelli, quattordici anni dopo, andai di nuovo a Gerusalemme in compagnia di Bàrnaba, portando con me anche Tito. Vi andai a causa di una rivelazione ed esposi loro il Vangelo che io annuncio tra le genti, prendendo a parte le persone più autorevoli, per non correre o aver corso invano.\n\nVidero anzi che a me era stato affidato il Vangelo per i non circoncisi, come a Pietro quello per i circoncisi, e riconoscendo la grazia che mi era stata data, Giacomo, Cefa e Giovanni, ritenuti le colonne, diedero a me e a Bàrnaba la mano come segno di comunione, perché noi andassimo fra le genti ed essi fra i circoncisi. Soltanto ci chiesero di ricordarci dei poveri, cosa che mi ero già preoccupato di fare.\n\nMa quando Cefa venne ad Antiòchia, lo contestai apertamente, perché non era nel giusto. Egli infatti, prima che arrivassero alcuni da parte di Giacomo, prendeva cibo insieme ai pagani; ma dopo il loro arrivo cominciò a ritirarsi e a tenersi in disparte, per timore di quelli venuti dalla circoncisione. Anche gli altri Giudei si comportarono come lui, al punto che pure Bàrnaba si lasciò attirare dalla loro ipocrisia. Ma quando vidi che non camminavano rettamente secondo la verità del Vangelo, dissi a Cefa davanti a tutti: «Se tu, che sei Giudeo, vivi come i pagani e non secondo l'usanza giudaica, perché vuoi costringere i pagani a vivere secondo l'usanza giudaica?»."
     },
     "salmo": {
-      "riferimento": "Sal 138 (139)",
-      "ritornello": "Guidami, Signore, per una via di eternità.",
-      "versetti": "Signore, tu mi scruti e mi conosci, tu sai quando seggo e quando mi alzo.\nPenetri da lontano i miei pensieri, osservi il mio cammino e il mio riposo.\n\nSei tu che hai creato le mie viscere e mi hai tessuto nel seno di mia madre.\nIo ti rendo grazie: hai fatto di me una meraviglia stupenda.\n\nScrutami, Dio, e conosci il mio cuore, provami e conosci i miei pensieri:\nguidami per una via di eternità."
+      "riferimento": "Sal 116 (117)",
+      "ritornello": "Andate in tutto il mondo e proclamate il Vangelo.",
+      "versetti": "Lodate il Signore, popoli tutti, voi tutte, nazioni, dategli gloria.\n\nPerché la sua misericordia verso di noi è grande, la fedeltà del Signore dura per sempre."
     },
     "vangelo": {
-      "riferimento": "Lc 10,38-42",
+      "riferimento": "Lc 11,1-4",
       "titolo": "Dal Vangelo secondo Luca",
-      "testo": "In quel tempo, mentre erano in cammino, Gesù entrò in un villaggio e una donna, di nome Marta, lo ospitò. Ella aveva una sorella, di nome Maria, la quale, seduta ai piedi del Signore, ascoltava la sua parola.\n\nMarta invece era distolta per i molti servizi. Allora si fece avanti e disse: «Signore, non t'importa nulla che mia sorella mi abbia lasciata sola a servire? Dille dunque che mi aiuti».\n\nMa il Signore le rispose: «Marta, Marta, tu ti affanni e ti agiti per molte cose, ma di una cosa sola c'è bisogno. Maria ha scelto la parte migliore, che non le sarà tolta».",
+      "testo": "In quel tempo, Gesù si trovava in un luogo a pregare e, quando ebbe finito, uno dei discepoli gli disse: «Signore, insegnaci a pregare, come anche Giovanni ha insegnato ai suoi discepoli».\n\nEd egli disse loro: «Quando pregate, dite: Padre, sia santificato il tuo nome, venga il tuo regno; dacci ogni giorno il nostro pane quotidiano, e perdona a noi i nostri peccati, perché anche noi perdoniamo ad ogni nostro debitore, e non abbandonarci alla tentazione».",
       "audioUrl": null
     }
   },
   "omelia": {
-    "estratto": "Nella casa di Betania Gesù non cerca chi lavori per lui, ma chi gli stia accanto: tra lui e Maria nasce la scena insolita di un maestro e una discepola seduti vicini, «presi l'uno dell'altra». È la casa dell'amicizia, dove anche Marta non è chiamata a smettere di servire, ma a lasciarsi anzitutto amare, prima ancora di affannarsi a servire.",
-    "autore": "Ermes Ronchi",
-    "fonteNome": "Avvenire - rubrica \"Il Vangelo\"",
-    "fonteUrl": "https://www.avvenire.it/rubriche/il-vangelo/marta-e-maria-il-signore-non-cerca-servitori-ma-amici_24688",
-    "data": "13 luglio 2016 (commento sullo stesso Vangelo di Marta e Maria, Lc 10,38-42)"
+    "estratto": "«La nostra preghiera cresce contemplando il dialogo tra il Figlio e il Padre. Gesù ci insegna a essere fratelli e figli, perdonandoci e donando la nostra vita per gli altri.»",
+    "autore": "Mauro Leonardi",
+    "fonteNome": "Gionata.org",
+    "fonteUrl": "https://www.gionata.org/luca-111-4-2",
+    "data": "commento al Vangelo del giorno (Lc 11,1-4)"
   },
   "santo": {
-    "nome": "San Bruno di Colonia",
-    "bio": "Bruno nacque a Colonia, in Germania, verso il 1030. Dopo gli studi a Reims, fu ordinato sacerdote e per oltre vent'anni diresse la celebre scuola della cattedrale, formando generazioni di chierici. Entrato in conflitto con l'arcivescovo di Reims, accusato di simonia, lasciò l'incarico e, cercando una vita di silenzio e preghiera, si ritirò con alcuni compagni tra i monti della Chartreuse, vicino a Grenoble: nacque così, nel 1084, la Grande Chartreuse, culla dell'Ordine dei Certosini, dedito alla contemplazione e al silenzio. Chiamato a Roma da papa Urbano II, suo antico discepolo, per fargli da consigliere, dopo breve tempo ottenne di potersi ritirare di nuovo in solitudine, fondando in Calabria un secondo eremo, Santa Maria dell'Eremo. Qui morì il 6 ottobre 1101. Non scrisse una regola propria, ma lasciò un'eredità fatta di silenzio, equilibrio e amicizia spirituale, che ancora oggi caratterizza la vita certosina.",
-    "scintilla": "Bruno ricorda che non serve fuggire dal mondo per stare con Dio, ma a volte basta il coraggio di fermarsi, fare silenzio e lasciare che sia Lui a parlare per primo."
+    "nome": "Beata Vergine Maria del Rosario",
+    "bio": "La memoria della Beata Vergine Maria del Rosario fu istituita da papa san Pio V nel 1572, un anno dopo la vittoria della flotta cristiana a Lepanto, il 7 ottobre 1571, sull'armata ottomana: una vittoria che il Papa attribuì all'intercessione di Maria, invocata in tutta la cristianità con la recita del Rosario. La devozione, che intreccia la preghiera dell'Ave Maria con la meditazione dei misteri della vita di Cristo, affonda le radici nella spiritualità monastica medievale e si diffuse soprattutto grazie ai frati Predicatori domenicani, che ne fecero uno strumento semplice e popolare di preghiera e catechesi. Nei secoli il culto si è radicato ulteriormente nella pietà cristiana, confermato anche dalle apparizioni mariane di Lourdes, nel 1858, e di Fatima, nel 1917, dove Maria stessa raccomandò con insistenza questa preghiera. La memoria del 7 ottobre invita i fedeli a riscoprire il Rosario come scuola per contemplare il volto di Cristo con gli occhi di sua Madre.",
+    "scintilla": "Il Rosario ricorda che non serve una grande teologia per pregare bene: bastano poche parole semplici, ripetute con il cuore, come fa un bambino che non si stanca mai di chiamare 'mamma'."
   },
-  "oggiProvaA": "Oggi scegli almeno un momento in cui fermarti davvero ad ascoltare qualcuno, senza pensare a cosa devi fare dopo.",
-  "domandaPerTe": "Nella mia giornata, do più spazio al fare o al fermarmi ad ascoltare chi ho vicino?",
+  "oggiProvaA": "Oggi prova a fermarti cinque minuti in silenzio e a recitare il Padre nostro una frase alla volta, lasciando un respiro tra l'una e l'altra.",
+  "domandaPerTe": "Quando prego, sto davvero parlando con un Padre o sto solo recitando delle parole?",
   "treMinuti": {
-    "versetto": "«Maria ha scelto la parte migliore, che non le sarà tolta» (Lc 10,42)",
-    "pensiero": "Non tutto ciò che è urgente è anche necessario: prima il fermarsi, poi il fare.",
-    "santo": "San Bruno di Colonia: lasciò una vita di successo per il silenzio e l'ascolto di Dio.",
-    "gesto": "Fermati oggi, almeno una volta, ad ascoltare davvero senza pensare a cosa fare dopo.",
-    "preghiera": "Signore, insegnami a non affannarmi per troppe cose e a scegliere ogni giorno la parte migliore."
+    "versetto": "«Padre, sia santificato il tuo nome, venga il tuo regno» (Lc 11,2)",
+    "pensiero": "Pregare non è recitare formule, ma lasciarsi insegnare da Gesù il nome giusto da dare a Dio: Padre.",
+    "santo": "Beata Vergine Maria del Rosario: la preghiera semplice e ripetuta che accompagna la vita, verso dopo verso.",
+    "gesto": "Fermati cinque minuti in silenzio e ripeti lentamente il Padre nostro, una frase alla volta.",
+    "preghiera": "Padre, insegnami a pregare con il cuore di un figlio, non con le parole di un estraneo."
   },
-  "preghieraFinale": "Signore Gesù, tu entri nelle nostre case come entrasti in quella di Marta e Maria, e cerchi non servizi affannati ma un cuore che si fermi ad ascoltarti. Insegnaci a non lasciarci dividere da mille cose, ma a custodire ciò che è davvero necessario: la tua parola, la tua presenza, il tuo amore che non ci sarà mai tolto. Rendici capaci di servire senza perdere la pace. Amen."
+  "preghieraFinale": "Padre buono, tu che hai insegnato a Gesù il nome con cui ti chiamiamo, insegna a noi a pregare con verità. Liberaci dalla fretta e dalle formule vuote, e donaci la fede semplice di Maria, che nel Rosario ha meditato ogni giorno la tua volontà. Fa' che il nostro pane quotidiano sia condiviso, il nostro perdono sincero, e il nostro cuore libero dalla tentazione di bastare a se stesso. Amen."
 }
